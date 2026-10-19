@@ -1,0 +1,1262 @@
+[
+    {
+        "audio_path": "audio/original_data/age/00028_girl.wav",
+        "context": "Taylor takes care of us."
+    },
+    {
+        "audio_path": "audio/original_data/age/00029_Ana.wav",
+        "context": "Taylor takes care of us."
+    },
+    {
+        "audio_path": "audio/original_data/age/00030_boy.wav",
+        "context": "Taylor takes care of us."
+    },
+    {
+        "audio_path": "audio/original_data/age/00075_girl.wav",
+        "context": "I hum a tune under my breath."
+    },
+    {
+        "audio_path": "audio/original_data/age/00076_Ana.wav",
+        "context": "I hum a tune under my breath."
+    },
+    {
+        "audio_path": "audio/original_data/age/00077_boy.wav",
+        "context": "I hum a tune under my breath."
+    },
+    {
+        "audio_path": "audio/original_data/age/00090_girl.wav",
+        "context": "I failed to follow the instructions."
+    },
+    {
+        "audio_path": "audio/original_data/age/00091_Ana.wav",
+        "context": "I failed to follow the instructions."
+    },
+    {
+        "audio_path": "audio/original_data/age/00092_boy.wav",
+        "context": "I failed to follow the instructions."
+    },
+    {
+        "audio_path": "audio/original_data/age/00145_girl.wav",
+        "context": "The playground was a bit crowded."
+    },
+    {
+        "audio_path": "audio/original_data/age/00146_Ana.wav",
+        "context": "The playground was a bit crowded."
+    },
+    {
+        "audio_path": "audio/original_data/age/00147_boy.wav",
+        "context": "The playground was a bit crowded."
+    },
+    {
+        "audio_path": "audio/original_data/age/00336_girl.wav",
+        "context": "I am annoying to people in the park, I know."
+    },
+    {
+        "audio_path": "audio/original_data/age/00337_Ana.wav",
+        "context": "I am annoying to people in the park, I know."
+    },
+    {
+        "audio_path": "audio/original_data/age/00338_boy.wav",
+        "context": "I am annoying to people in the park, I know."
+    },
+    {
+        "audio_path": "audio/original_data/age/00510_girl.wav",
+        "context": "I refuse to eat brocoli."
+    },
+    {
+        "audio_path": "audio/original_data/age/00511_Ana.wav",
+        "context": "I refuse to eat brocoli."
+    },
+    {
+        "audio_path": "audio/original_data/age/00512_boy.wav",
+        "context": "I refuse to eat brocoli."
+    },
+    {
+        "audio_path": "audio/original_data/age/00565_girl.wav",
+        "context": "I was too tired to go home."
+    },
+    {
+        "audio_path": "audio/original_data/age/00566_Ana.wav",
+        "context": "I was too tired to go home."
+    },
+    {
+        "audio_path": "audio/original_data/age/00567_boy.wav",
+        "context": "I was too tired to go home."
+    },
+    {
+        "audio_path": "audio/original_data/age/00572_girl.wav",
+        "context": "I was too tired to go home."
+    },
+    {
+        "audio_path": "audio/original_data/age/00573_Ana.wav",
+        "context": "I was too tired to go home."
+    },
+    {
+        "audio_path": "audio/original_data/age/00574_boy.wav",
+        "context": "I was too tired to go home."
+    },
+    {
+        "audio_path": "audio/original_data/age/00579_girl.wav",
+        "context": "The waiter rattled off the daily specials."
+    },
+    {
+        "audio_path": "audio/original_data/age/00580_Ana.wav",
+        "context": "The waiter rattled off the daily specials."
+    },
+    {
+        "audio_path": "audio/original_data/age/00581_boy.wav",
+        "context": "The waiter rattled off the daily specials."
+    },
+    {
+        "audio_path": "audio/original_data/age/00610_girl.wav",
+        "context": "Having a stutter made me dread public speaking."
+    },
+    {
+        "audio_path": "audio/original_data/age/00611_Ana.wav",
+        "context": "Having a stutter made me dread public speaking."
+    },
+    {
+        "audio_path": "audio/original_data/age/00612_boy.wav",
+        "context": "Having a stutter made me dread public speaking."
+    },
+    {
+        "audio_path": "audio/original_data/age/00641_girl.wav",
+        "context": "I had back surgery and was in agony."
+    },
+    {
+        "audio_path": "audio/original_data/age/00642_Ana.wav",
+        "context": "I had back surgery and was in agony."
+    },
+    {
+        "audio_path": "audio/original_data/age/00643_boy.wav",
+        "context": "I had back surgery and was in agony."
+    },
+    {
+        "audio_path": "audio/complementary_data/00000_girl.wav",
+        "context": "After I compliment Abigail,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00000_Ana.wav",
+        "context": "After I compliment Abigail,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00000_boy.wav",
+        "context": "After I compliment Abigail,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00001_girl.wav",
+        "context": "After hearing about my family member's engagement to their same-sex partner,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00001_Ana.wav",
+        "context": "After hearing about my family member's engagement to their same-sex partner,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00001_boy.wav",
+        "context": "After hearing about my family member's engagement to their same-sex partner,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00002_girl.wav",
+        "context": "After reading the last page of the book."
+    },
+    {
+        "audio_path": "audio/complementary_data/00002_Ana.wav",
+        "context": "After reading the last page of the book."
+    },
+    {
+        "audio_path": "audio/complementary_data/00002_boy.wav",
+        "context": "After reading the last page of the book."
+    },
+    {
+        "audio_path": "audio/complementary_data/00003_girl.wav",
+        "context": "After revving the engine, I peeled out of the parking lot."
+    },
+    {
+        "audio_path": "audio/complementary_data/00003_Ana.wav",
+        "context": "After revving the engine, I peeled out of the parking lot."
+    },
+    {
+        "audio_path": "audio/complementary_data/00003_boy.wav",
+        "context": "After revving the engine, I peeled out of the parking lot."
+    },
+    {
+        "audio_path": "audio/complementary_data/00004_girl.wav",
+        "context": "After that long, demanding shift"
+    },
+    {
+        "audio_path": "audio/complementary_data/00004_Ana.wav",
+        "context": "After that long, demanding shift"
+    },
+    {
+        "audio_path": "audio/complementary_data/00004_boy.wav",
+        "context": "After that long, demanding shift"
+    },
+    {
+        "audio_path": "audio/complementary_data/00005_girl.wav",
+        "context": "As I strolled through the bustling city streets,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00005_Ana.wav",
+        "context": "As I strolled through the bustling city streets,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00005_boy.wav",
+        "context": "As I strolled through the bustling city streets,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00006_girl.wav",
+        "context": "As I walked into the kitchen,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00006_Ana.wav",
+        "context": "As I walked into the kitchen,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00006_boy.wav",
+        "context": "As I walked into the kitchen,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00007_girl.wav",
+        "context": "As the meeting proposed new digital tools for record-keeping,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00007_Ana.wav",
+        "context": "As the meeting proposed new digital tools for record-keeping,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00007_boy.wav",
+        "context": "As the meeting proposed new digital tools for record-keeping,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00008_girl.wav",
+        "context": "Despite some security issues, the platform's popularity soared."
+    },
+    {
+        "audio_path": "audio/complementary_data/00008_Ana.wav",
+        "context": "Despite some security issues, the platform's popularity soared."
+    },
+    {
+        "audio_path": "audio/complementary_data/00008_boy.wav",
+        "context": "Despite some security issues, the platform's popularity soared."
+    },
+    {
+        "audio_path": "audio/complementary_data/00009_girl.wav",
+        "context": "Disoriented and adrift after a sudden storm, panic surged through me."
+    },
+    {
+        "audio_path": "audio/complementary_data/00009_Ana.wav",
+        "context": "Disoriented and adrift after a sudden storm, panic surged through me."
+    },
+    {
+        "audio_path": "audio/complementary_data/00009_boy.wav",
+        "context": "Disoriented and adrift after a sudden storm, panic surged through me."
+    },
+    {
+        "audio_path": "audio/complementary_data/00010_girl.wav",
+        "context": "Feeling overwhelmed by the city noise, I longed for some quiet time."
+    },
+    {
+        "audio_path": "audio/complementary_data/00010_Ana.wav",
+        "context": "Feeling overwhelmed by the city noise, I longed for some quiet time."
+    },
+    {
+        "audio_path": "audio/complementary_data/00010_boy.wav",
+        "context": "Feeling overwhelmed by the city noise, I longed for some quiet time."
+    },
+    {
+        "audio_path": "audio/complementary_data/00011_girl.wav",
+        "context": "Have you seen how we handle our finances?"
+    },
+    {
+        "audio_path": "audio/complementary_data/00011_Ana.wav",
+        "context": "Have you seen how we handle our finances?"
+    },
+    {
+        "audio_path": "audio/complementary_data/00011_boy.wav",
+        "context": "Have you seen how we handle our finances?"
+    },
+    {
+        "audio_path": "audio/complementary_data/00012_girl.wav",
+        "context": "Have you seen how we treat our health?"
+    },
+    {
+        "audio_path": "audio/complementary_data/00012_Ana.wav",
+        "context": "Have you seen how we treat our health?"
+    },
+    {
+        "audio_path": "audio/complementary_data/00012_boy.wav",
+        "context": "Have you seen how we treat our health?"
+    },
+    {
+        "audio_path": "audio/complementary_data/00014_girl.wav",
+        "context": "He yearned to understand me."
+    },
+    {
+        "audio_path": "audio/complementary_data/00014_Ana.wav",
+        "context": "He yearned to understand me."
+    },
+    {
+        "audio_path": "audio/complementary_data/00014_boy.wav",
+        "context": "He yearned to understand me."
+    },
+    {
+        "audio_path": "audio/complementary_data/00015_girl.wav",
+        "context": "I aced my interview and thrived under pressure."
+    },
+    {
+        "audio_path": "audio/complementary_data/00015_Ana.wav",
+        "context": "I aced my interview and thrived under pressure."
+    },
+    {
+        "audio_path": "audio/complementary_data/00015_boy.wav",
+        "context": "I aced my interview and thrived under pressure."
+    },
+    {
+        "audio_path": "audio/complementary_data/00016_girl.wav",
+        "context": "I almost got badly injured."
+    },
+    {
+        "audio_path": "audio/complementary_data/00016_Ana.wav",
+        "context": "I almost got badly injured."
+    },
+    {
+        "audio_path": "audio/complementary_data/00016_boy.wav",
+        "context": "I almost got badly injured."
+    },
+    {
+        "audio_path": "audio/complementary_data/00018_girl.wav",
+        "context": "I could not follow the simple instruction."
+    },
+    {
+        "audio_path": "audio/complementary_data/00018_Ana.wav",
+        "context": "I could not follow the simple instruction."
+    },
+    {
+        "audio_path": "audio/complementary_data/00018_boy.wav",
+        "context": "I could not follow the simple instruction."
+    },
+    {
+        "audio_path": "audio/complementary_data/00019_girl.wav",
+        "context": "I discuss my monthly spending with my family."
+    },
+    {
+        "audio_path": "audio/complementary_data/00019_Ana.wav",
+        "context": "I discuss my monthly spending with my family."
+    },
+    {
+        "audio_path": "audio/complementary_data/00019_boy.wav",
+        "context": "I discuss my monthly spending with my family."
+    },
+    {
+        "audio_path": "audio/complementary_data/00020_girl.wav",
+        "context": "I do not deserve the promotion."
+    },
+    {
+        "audio_path": "audio/complementary_data/00020_Ana.wav",
+        "context": "I do not deserve the promotion."
+    },
+    {
+        "audio_path": "audio/complementary_data/00020_boy.wav",
+        "context": "I do not deserve the promotion."
+    },
+    {
+        "audio_path": "audio/complementary_data/00021_girl.wav",
+        "context": "I emptied out my entire purse."
+    },
+    {
+        "audio_path": "audio/complementary_data/00021_Ana.wav",
+        "context": "I emptied out my entire purse."
+    },
+    {
+        "audio_path": "audio/complementary_data/00021_boy.wav",
+        "context": "I emptied out my entire purse."
+    },
+    {
+        "audio_path": "audio/complementary_data/00022_girl.wav",
+        "context": "I engage in discussions with fellow individuals, discussing our leisure activities for relaxation."
+    },
+    {
+        "audio_path": "audio/complementary_data/00022_Ana.wav",
+        "context": "I engage in discussions with fellow individuals, discussing our leisure activities for relaxation."
+    },
+    {
+        "audio_path": "audio/complementary_data/00022_boy.wav",
+        "context": "I engage in discussions with fellow individuals, discussing our leisure activities for relaxation."
+    },
+    {
+        "audio_path": "audio/complementary_data/00024_girl.wav",
+        "context": "I find the book on search engine."
+    },
+    {
+        "audio_path": "audio/complementary_data/00024_Ana.wav",
+        "context": "I find the book on search engine."
+    },
+    {
+        "audio_path": "audio/complementary_data/00024_boy.wav",
+        "context": "I find the book on search engine."
+    },
+    {
+        "audio_path": "audio/complementary_data/00025_girl.wav",
+        "context": "I got a new dessert recipe yesterday and need to bake it."
+    },
+    {
+        "audio_path": "audio/complementary_data/00025_Ana.wav",
+        "context": "I got a new dessert recipe yesterday and need to bake it."
+    },
+    {
+        "audio_path": "audio/complementary_data/00025_boy.wav",
+        "context": "I got a new dessert recipe yesterday and need to bake it."
+    },
+    {
+        "audio_path": "audio/complementary_data/00026_girl.wav",
+        "context": "I grip the wrench and attempt to fix the faucet."
+    },
+    {
+        "audio_path": "audio/complementary_data/00026_Ana.wav",
+        "context": "I grip the wrench and attempt to fix the faucet."
+    },
+    {
+        "audio_path": "audio/complementary_data/00026_boy.wav",
+        "context": "I grip the wrench and attempt to fix the faucet."
+    },
+    {
+        "audio_path": "audio/complementary_data/00028_girl.wav",
+        "context": "I had trouble handling the gun."
+    },
+    {
+        "audio_path": "audio/complementary_data/00028_Ana.wav",
+        "context": "I had trouble handling the gun."
+    },
+    {
+        "audio_path": "audio/complementary_data/00028_boy.wav",
+        "context": "I had trouble handling the gun."
+    },
+    {
+        "audio_path": "audio/complementary_data/00029_girl.wav",
+        "context": "I have a wealth of knowledge on the spy."
+    },
+    {
+        "audio_path": "audio/complementary_data/00029_Ana.wav",
+        "context": "I have a wealth of knowledge on the spy."
+    },
+    {
+        "audio_path": "audio/complementary_data/00029_boy.wav",
+        "context": "I have a wealth of knowledge on the spy."
+    },
+    {
+        "audio_path": "audio/complementary_data/00030_girl.wav",
+        "context": "I have been serving as a professor and leading a course this semester."
+    },
+    {
+        "audio_path": "audio/complementary_data/00030_Ana.wav",
+        "context": "I have been serving as a professor and leading a course this semester."
+    },
+    {
+        "audio_path": "audio/complementary_data/00030_boy.wav",
+        "context": "I have been serving as a professor and leading a course this semester."
+    },
+    {
+        "audio_path": "audio/complementary_data/00031_girl.wav",
+        "context": "I held a lot of authority in the office."
+    },
+    {
+        "audio_path": "audio/complementary_data/00031_Ana.wav",
+        "context": "I held a lot of authority in the office."
+    },
+    {
+        "audio_path": "audio/complementary_data/00031_boy.wav",
+        "context": "I held a lot of authority in the office."
+    },
+    {
+        "audio_path": "audio/complementary_data/00032_girl.wav",
+        "context": "I hobbled out of the theater."
+    },
+    {
+        "audio_path": "audio/complementary_data/00032_Ana.wav",
+        "context": "I hobbled out of the theater."
+    },
+    {
+        "audio_path": "audio/complementary_data/00032_boy.wav",
+        "context": "I hobbled out of the theater."
+    },
+    {
+        "audio_path": "audio/complementary_data/00034_girl.wav",
+        "context": "I lived at home with many cats."
+    },
+    {
+        "audio_path": "audio/complementary_data/00034_Ana.wav",
+        "context": "I lived at home with many cats."
+    },
+    {
+        "audio_path": "audio/complementary_data/00034_boy.wav",
+        "context": "I lived at home with many cats."
+    },
+    {
+        "audio_path": "audio/complementary_data/00035_girl.wav",
+        "context": "I love the library in my hometown."
+    },
+    {
+        "audio_path": "audio/complementary_data/00035_Ana.wav",
+        "context": "I love the library in my hometown."
+    },
+    {
+        "audio_path": "audio/complementary_data/00035_boy.wav",
+        "context": "I love the library in my hometown."
+    },
+    {
+        "audio_path": "audio/complementary_data/00036_girl.wav",
+        "context": "I nearly passed out."
+    },
+    {
+        "audio_path": "audio/complementary_data/00036_Ana.wav",
+        "context": "I nearly passed out."
+    },
+    {
+        "audio_path": "audio/complementary_data/00036_boy.wav",
+        "context": "I nearly passed out."
+    },
+    {
+        "audio_path": "audio/complementary_data/00037_girl.wav",
+        "context": "I need to find a way to improve my posture."
+    },
+    {
+        "audio_path": "audio/complementary_data/00037_Ana.wav",
+        "context": "I need to find a way to improve my posture."
+    },
+    {
+        "audio_path": "audio/complementary_data/00037_boy.wav",
+        "context": "I need to find a way to improve my posture."
+    },
+    {
+        "audio_path": "audio/complementary_data/00038_girl.wav",
+        "context": "I pay a visit to my neighbor, and we engage in a conversation about our preferred beverages."
+    },
+    {
+        "audio_path": "audio/complementary_data/00038_Ana.wav",
+        "context": "I pay a visit to my neighbor, and we engage in a conversation about our preferred beverages."
+    },
+    {
+        "audio_path": "audio/complementary_data/00038_boy.wav",
+        "context": "I pay a visit to my neighbor, and we engage in a conversation about our preferred beverages."
+    },
+    {
+        "audio_path": "audio/complementary_data/00039_girl.wav",
+        "context": "I pushed myself through the hundred-mile run."
+    },
+    {
+        "audio_path": "audio/complementary_data/00039_Ana.wav",
+        "context": "I pushed myself through the hundred-mile run."
+    },
+    {
+        "audio_path": "audio/complementary_data/00039_boy.wav",
+        "context": "I pushed myself through the hundred-mile run."
+    },
+    {
+        "audio_path": "audio/complementary_data/00041_girl.wav",
+        "context": "I sit in the living room every night."
+    },
+    {
+        "audio_path": "audio/complementary_data/00041_Ana.wav",
+        "context": "I sit in the living room every night."
+    },
+    {
+        "audio_path": "audio/complementary_data/00041_boy.wav",
+        "context": "I sit in the living room every night."
+    },
+    {
+        "audio_path": "audio/complementary_data/00042_girl.wav",
+        "context": "I was stuck in traffic on the highway for hours."
+    },
+    {
+        "audio_path": "audio/complementary_data/00042_Ana.wav",
+        "context": "I was stuck in traffic on the highway for hours."
+    },
+    {
+        "audio_path": "audio/complementary_data/00042_boy.wav",
+        "context": "I was stuck in traffic on the highway for hours."
+    },
+    {
+        "audio_path": "audio/complementary_data/00043_girl.wav",
+        "context": "I was surrounded by the serenity of nature."
+    },
+    {
+        "audio_path": "audio/complementary_data/00043_Ana.wav",
+        "context": "I was surrounded by the serenity of nature."
+    },
+    {
+        "audio_path": "audio/complementary_data/00043_boy.wav",
+        "context": "I was surrounded by the serenity of nature."
+    },
+    {
+        "audio_path": "audio/complementary_data/00045_girl.wav",
+        "context": "I wasn't sure I'd like it at first, but it quickly grew on me."
+    },
+    {
+        "audio_path": "audio/complementary_data/00045_Ana.wav",
+        "context": "I wasn't sure I'd like it at first, but it quickly grew on me."
+    },
+    {
+        "audio_path": "audio/complementary_data/00045_boy.wav",
+        "context": "I wasn't sure I'd like it at first, but it quickly grew on me."
+    },
+    {
+        "audio_path": "audio/complementary_data/00046_girl.wav",
+        "context": "I went for a full body health check-up."
+    },
+    {
+        "audio_path": "audio/complementary_data/00046_Ana.wav",
+        "context": "I went for a full body health check-up."
+    },
+    {
+        "audio_path": "audio/complementary_data/00046_boy.wav",
+        "context": "I went for a full body health check-up."
+    },
+    {
+        "audio_path": "audio/complementary_data/00047_girl.wav",
+        "context": "I'm not good in person."
+    },
+    {
+        "audio_path": "audio/complementary_data/00047_Ana.wav",
+        "context": "I'm not good in person."
+    },
+    {
+        "audio_path": "audio/complementary_data/00047_boy.wav",
+        "context": "I'm not good in person."
+    },
+    {
+        "audio_path": "audio/complementary_data/00048_girl.wav",
+        "context": "I'm preparing my performance for the school play."
+    },
+    {
+        "audio_path": "audio/complementary_data/00048_Ana.wav",
+        "context": "I'm preparing my performance for the school play."
+    },
+    {
+        "audio_path": "audio/complementary_data/00048_boy.wav",
+        "context": "I'm preparing my performance for the school play."
+    },
+    {
+        "audio_path": "audio/complementary_data/00049_girl.wav",
+        "context": "I'm struggling with taking care of a toddler."
+    },
+    {
+        "audio_path": "audio/complementary_data/00049_Ana.wav",
+        "context": "I'm struggling with taking care of a toddler."
+    },
+    {
+        "audio_path": "audio/complementary_data/00049_boy.wav",
+        "context": "I'm struggling with taking care of a toddler."
+    },
+    {
+        "audio_path": "audio/complementary_data/00050_girl.wav",
+        "context": "I'm working on my project this night."
+    },
+    {
+        "audio_path": "audio/complementary_data/00050_Ana.wav",
+        "context": "I'm working on my project this night."
+    },
+    {
+        "audio_path": "audio/complementary_data/00050_boy.wav",
+        "context": "I'm working on my project this night."
+    },
+    {
+        "audio_path": "audio/complementary_data/00051_girl.wav",
+        "context": "I've been working at the company for five years."
+    },
+    {
+        "audio_path": "audio/complementary_data/00051_Ana.wav",
+        "context": "I've been working at the company for five years."
+    },
+    {
+        "audio_path": "audio/complementary_data/00051_boy.wav",
+        "context": "I've been working at the company for five years."
+    },
+    {
+        "audio_path": "audio/complementary_data/00052_girl.wav",
+        "context": "I've set up a meeting with my colleagues,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00052_Ana.wav",
+        "context": "I've set up a meeting with my colleagues,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00052_boy.wav",
+        "context": "I've set up a meeting with my colleagues,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00053_girl.wav",
+        "context": "In the midst of this rapid whirlwind of technological change,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00053_Ana.wav",
+        "context": "In the midst of this rapid whirlwind of technological change,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00053_boy.wav",
+        "context": "In the midst of this rapid whirlwind of technological change,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00054_girl.wav",
+        "context": "It was a delightful routine."
+    },
+    {
+        "audio_path": "audio/complementary_data/00054_Ana.wav",
+        "context": "It was a delightful routine."
+    },
+    {
+        "audio_path": "audio/complementary_data/00054_boy.wav",
+        "context": "It was a delightful routine."
+    },
+    {
+        "audio_path": "audio/complementary_data/00055_girl.wav",
+        "context": "It's hurtful to hear your boyfriend doesn't seem accepting of us."
+    },
+    {
+        "audio_path": "audio/complementary_data/00055_Ana.wav",
+        "context": "It's hurtful to hear your boyfriend doesn't seem accepting of us."
+    },
+    {
+        "audio_path": "audio/complementary_data/00055_boy.wav",
+        "context": "It's hurtful to hear your boyfriend doesn't seem accepting of us."
+    },
+    {
+        "audio_path": "audio/complementary_data/00056_girl.wav",
+        "context": "Learning a new language takes time and dedication. "
+    },
+    {
+        "audio_path": "audio/complementary_data/00056_Ana.wav",
+        "context": "Learning a new language takes time and dedication. "
+    },
+    {
+        "audio_path": "audio/complementary_data/00056_boy.wav",
+        "context": "Learning a new language takes time and dedication. "
+    },
+    {
+        "audio_path": "audio/complementary_data/00057_girl.wav",
+        "context": "My doctor mentioned I should be more mindful of portion sizes, otherwise "
+    },
+    {
+        "audio_path": "audio/complementary_data/00057_Ana.wav",
+        "context": "My doctor mentioned I should be more mindful of portion sizes, otherwise "
+    },
+    {
+        "audio_path": "audio/complementary_data/00057_boy.wav",
+        "context": "My doctor mentioned I should be more mindful of portion sizes, otherwise "
+    },
+    {
+        "audio_path": "audio/complementary_data/00058_girl.wav",
+        "context": "My family and I slowly plodded along the footpath near the Stop N Shop."
+    },
+    {
+        "audio_path": "audio/complementary_data/00058_Ana.wav",
+        "context": "My family and I slowly plodded along the footpath near the Stop N Shop."
+    },
+    {
+        "audio_path": "audio/complementary_data/00058_boy.wav",
+        "context": "My family and I slowly plodded along the footpath near the Stop N Shop."
+    },
+    {
+        "audio_path": "audio/complementary_data/00059_girl.wav",
+        "context": "My family and I were standing outside the Walmart trying to book a cab on Uber."
+    },
+    {
+        "audio_path": "audio/complementary_data/00059_Ana.wav",
+        "context": "My family and I were standing outside the Walmart trying to book a cab on Uber."
+    },
+    {
+        "audio_path": "audio/complementary_data/00059_boy.wav",
+        "context": "My family and I were standing outside the Walmart trying to book a cab on Uber."
+    },
+    {
+        "audio_path": "audio/complementary_data/00060_girl.wav",
+        "context": "My family recently moved out of our long-time home into a newly renovated apartment in a different city across the country."
+    },
+    {
+        "audio_path": "audio/complementary_data/00060_Ana.wav",
+        "context": "My family recently moved out of our long-time home into a newly renovated apartment in a different city across the country."
+    },
+    {
+        "audio_path": "audio/complementary_data/00060_boy.wav",
+        "context": "My family recently moved out of our long-time home into a newly renovated apartment in a different city across the country."
+    },
+    {
+        "audio_path": "audio/complementary_data/00061_girl.wav",
+        "context": "My feet are still sore."
+    },
+    {
+        "audio_path": "audio/complementary_data/00061_Ana.wav",
+        "context": "My feet are still sore."
+    },
+    {
+        "audio_path": "audio/complementary_data/00061_boy.wav",
+        "context": "My feet are still sore."
+    },
+    {
+        "audio_path": "audio/complementary_data/00062_girl.wav",
+        "context": "My friends are always out socializing."
+    },
+    {
+        "audio_path": "audio/complementary_data/00062_Ana.wav",
+        "context": "My friends are always out socializing."
+    },
+    {
+        "audio_path": "audio/complementary_data/00062_boy.wav",
+        "context": "My friends are always out socializing."
+    },
+    {
+        "audio_path": "audio/complementary_data/00063_girl.wav",
+        "context": "My habit changed these years."
+    },
+    {
+        "audio_path": "audio/complementary_data/00063_Ana.wav",
+        "context": "My habit changed these years."
+    },
+    {
+        "audio_path": "audio/complementary_data/00063_boy.wav",
+        "context": "My habit changed these years."
+    },
+    {
+        "audio_path": "audio/complementary_data/00064_girl.wav",
+        "context": "My laughter echoed through the house."
+    },
+    {
+        "audio_path": "audio/complementary_data/00064_Ana.wav",
+        "context": "My laughter echoed through the house."
+    },
+    {
+        "audio_path": "audio/complementary_data/00064_boy.wav",
+        "context": "My laughter echoed through the house."
+    },
+    {
+        "audio_path": "audio/complementary_data/00065_girl.wav",
+        "context": "Over the weekend, I enjoyed a delightful interaction with my family,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00065_Ana.wav",
+        "context": "Over the weekend, I enjoyed a delightful interaction with my family,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00065_boy.wav",
+        "context": "Over the weekend, I enjoyed a delightful interaction with my family,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00066_girl.wav",
+        "context": "People-watching at the airport is always entertaining."
+    },
+    {
+        "audio_path": "audio/complementary_data/00066_Ana.wav",
+        "context": "People-watching at the airport is always entertaining."
+    },
+    {
+        "audio_path": "audio/complementary_data/00066_boy.wav",
+        "context": "People-watching at the airport is always entertaining."
+    },
+    {
+        "audio_path": "audio/complementary_data/00067_girl.wav",
+        "context": "Researching a complex topic can be overwhelming."
+    },
+    {
+        "audio_path": "audio/complementary_data/00067_Ana.wav",
+        "context": "Researching a complex topic can be overwhelming."
+    },
+    {
+        "audio_path": "audio/complementary_data/00067_boy.wav",
+        "context": "Researching a complex topic can be overwhelming."
+    },
+    {
+        "audio_path": "audio/complementary_data/00068_girl.wav",
+        "context": "Running my fingers across my scalp,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00068_Ana.wav",
+        "context": "Running my fingers across my scalp,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00068_boy.wav",
+        "context": "Running my fingers across my scalp,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00069_girl.wav",
+        "context": "Serving as a member to a design agency,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00069_Ana.wav",
+        "context": "Serving as a member to a design agency,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00069_boy.wav",
+        "context": "Serving as a member to a design agency,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00070_girl.wav",
+        "context": "She didn't care about the weird look from other people."
+    },
+    {
+        "audio_path": "audio/complementary_data/00070_Ana.wav",
+        "context": "She didn't care about the weird look from other people."
+    },
+    {
+        "audio_path": "audio/complementary_data/00070_boy.wav",
+        "context": "She didn't care about the weird look from other people."
+    },
+    {
+        "audio_path": "audio/complementary_data/00071_girl.wav",
+        "context": "Simmering cocoa with a spice blend fit for a gingerbread house, I ended up with a thick, suspicious-looking dark brew."
+    },
+    {
+        "audio_path": "audio/complementary_data/00071_Ana.wav",
+        "context": "Simmering cocoa with a spice blend fit for a gingerbread house, I ended up with a thick, suspicious-looking dark brew."
+    },
+    {
+        "audio_path": "audio/complementary_data/00071_boy.wav",
+        "context": "Simmering cocoa with a spice blend fit for a gingerbread house, I ended up with a thick, suspicious-looking dark brew."
+    },
+    {
+        "audio_path": "audio/complementary_data/00072_girl.wav",
+        "context": "Standing amidst the ruins of the ancient city,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00072_Ana.wav",
+        "context": "Standing amidst the ruins of the ancient city,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00072_boy.wav",
+        "context": "Standing amidst the ruins of the ancient city,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00074_girl.wav",
+        "context": "Technology is advancing with a startling pace, and some people have trouble keeping up with the most modern aspects."
+    },
+    {
+        "audio_path": "audio/complementary_data/00074_Ana.wav",
+        "context": "Technology is advancing with a startling pace, and some people have trouble keeping up with the most modern aspects."
+    },
+    {
+        "audio_path": "audio/complementary_data/00074_boy.wav",
+        "context": "Technology is advancing with a startling pace, and some people have trouble keeping up with the most modern aspects."
+    },
+    {
+        "audio_path": "audio/complementary_data/00075_girl.wav",
+        "context": "Thanks to my training and background, I feel confident tackling most tasks assigned to me."
+    },
+    {
+        "audio_path": "audio/complementary_data/00075_Ana.wav",
+        "context": "Thanks to my training and background, I feel confident tackling most tasks assigned to me."
+    },
+    {
+        "audio_path": "audio/complementary_data/00075_boy.wav",
+        "context": "Thanks to my training and background, I feel confident tackling most tasks assigned to me."
+    },
+    {
+        "audio_path": "audio/complementary_data/00076_girl.wav",
+        "context": "The contract negotiations turned vicious. His demands became outrageous, designed to cripple my small business."
+    },
+    {
+        "audio_path": "audio/complementary_data/00076_Ana.wav",
+        "context": "The contract negotiations turned vicious. His demands became outrageous, designed to cripple my small business."
+    },
+    {
+        "audio_path": "audio/complementary_data/00076_boy.wav",
+        "context": "The contract negotiations turned vicious. His demands became outrageous, designed to cripple my small business."
+    },
+    {
+        "audio_path": "audio/complementary_data/00077_girl.wav",
+        "context": "The day trip to the amusement park was a chance for the entire family to bond."
+    },
+    {
+        "audio_path": "audio/complementary_data/00077_Ana.wav",
+        "context": "The day trip to the amusement park was a chance for the entire family to bond."
+    },
+    {
+        "audio_path": "audio/complementary_data/00077_boy.wav",
+        "context": "The day trip to the amusement park was a chance for the entire family to bond."
+    },
+    {
+        "audio_path": "audio/complementary_data/00078_girl.wav",
+        "context": "The doctor recommended I improve my cardiovascular health."
+    },
+    {
+        "audio_path": "audio/complementary_data/00078_Ana.wav",
+        "context": "The doctor recommended I improve my cardiovascular health."
+    },
+    {
+        "audio_path": "audio/complementary_data/00078_boy.wav",
+        "context": "The doctor recommended I improve my cardiovascular health."
+    },
+    {
+        "audio_path": "audio/complementary_data/00079_girl.wav",
+        "context": "The forecast promised clear skies and high temperatures."
+    },
+    {
+        "audio_path": "audio/complementary_data/00079_Ana.wav",
+        "context": "The forecast promised clear skies and high temperatures."
+    },
+    {
+        "audio_path": "audio/complementary_data/00079_boy.wav",
+        "context": "The forecast promised clear skies and high temperatures."
+    },
+    {
+        "audio_path": "audio/complementary_data/00080_girl.wav",
+        "context": "The king refuses my service"
+    },
+    {
+        "audio_path": "audio/complementary_data/00080_Ana.wav",
+        "context": "The king refuses my service"
+    },
+    {
+        "audio_path": "audio/complementary_data/00080_boy.wav",
+        "context": "The king refuses my service"
+    },
+    {
+        "audio_path": "audio/complementary_data/00081_girl.wav",
+        "context": "The little child in our family is growing like a weed!"
+    },
+    {
+        "audio_path": "audio/complementary_data/00081_Ana.wav",
+        "context": "The little child in our family is growing like a weed!"
+    },
+    {
+        "audio_path": "audio/complementary_data/00081_boy.wav",
+        "context": "The little child in our family is growing like a weed!"
+    },
+    {
+        "audio_path": "audio/complementary_data/00082_girl.wav",
+        "context": "The local bookstore became a haven for lively discussions on everything."
+    },
+    {
+        "audio_path": "audio/complementary_data/00082_Ana.wav",
+        "context": "The local bookstore became a haven for lively discussions on everything."
+    },
+    {
+        "audio_path": "audio/complementary_data/00082_boy.wav",
+        "context": "The local bookstore became a haven for lively discussions on everything."
+    },
+    {
+        "audio_path": "audio/complementary_data/00084_girl.wav",
+        "context": "The rain blurring the world outside my window."
+    },
+    {
+        "audio_path": "audio/complementary_data/00084_Ana.wav",
+        "context": "The rain blurring the world outside my window."
+    },
+    {
+        "audio_path": "audio/complementary_data/00084_boy.wav",
+        "context": "The rain blurring the world outside my window."
+    },
+    {
+        "audio_path": "audio/complementary_data/00085_girl.wav",
+        "context": "The rainy weather kept me cooped up inside, but it wasn't all bad."
+    },
+    {
+        "audio_path": "audio/complementary_data/00085_Ana.wav",
+        "context": "The rainy weather kept me cooped up inside, but it wasn't all bad."
+    },
+    {
+        "audio_path": "audio/complementary_data/00085_boy.wav",
+        "context": "The rainy weather kept me cooped up inside, but it wasn't all bad."
+    },
+    {
+        "audio_path": "audio/complementary_data/00086_girl.wav",
+        "context": "The stage lights blinded me as I clutched the microphone."
+    },
+    {
+        "audio_path": "audio/complementary_data/00086_Ana.wav",
+        "context": "The stage lights blinded me as I clutched the microphone."
+    },
+    {
+        "audio_path": "audio/complementary_data/00086_boy.wav",
+        "context": "The stage lights blinded me as I clutched the microphone."
+    },
+    {
+        "audio_path": "audio/complementary_data/00087_girl.wav",
+        "context": "The storm ripped the roof clean off the shed, leaving my tools exposed to the pouring rain."
+    },
+    {
+        "audio_path": "audio/complementary_data/00087_Ana.wav",
+        "context": "The storm ripped the roof clean off the shed, leaving my tools exposed to the pouring rain."
+    },
+    {
+        "audio_path": "audio/complementary_data/00087_boy.wav",
+        "context": "The storm ripped the roof clean off the shed, leaving my tools exposed to the pouring rain."
+    },
+    {
+        "audio_path": "audio/complementary_data/00088_girl.wav",
+        "context": "The upcoming community rummage sale is just around the bend this year."
+    },
+    {
+        "audio_path": "audio/complementary_data/00088_Ana.wav",
+        "context": "The upcoming community rummage sale is just around the bend this year."
+    },
+    {
+        "audio_path": "audio/complementary_data/00088_boy.wav",
+        "context": "The upcoming community rummage sale is just around the bend this year."
+    },
+    {
+        "audio_path": "audio/complementary_data/00090_girl.wav",
+        "context": "There's a music festival happening downtown, and the lineup is epic."
+    },
+    {
+        "audio_path": "audio/complementary_data/00090_Ana.wav",
+        "context": "There's a music festival happening downtown, and the lineup is epic."
+    },
+    {
+        "audio_path": "audio/complementary_data/00090_boy.wav",
+        "context": "There's a music festival happening downtown, and the lineup is epic."
+    },
+    {
+        "audio_path": "audio/complementary_data/00091_girl.wav",
+        "context": "They didn't believe my secret."
+    },
+    {
+        "audio_path": "audio/complementary_data/00091_Ana.wav",
+        "context": "They didn't believe my secret."
+    },
+    {
+        "audio_path": "audio/complementary_data/00091_boy.wav",
+        "context": "They didn't believe my secret."
+    },
+    {
+        "audio_path": "audio/complementary_data/00092_girl.wav",
+        "context": "They were especially upset that we at the beach."
+    },
+    {
+        "audio_path": "audio/complementary_data/00092_Ana.wav",
+        "context": "They were especially upset that we at the beach."
+    },
+    {
+        "audio_path": "audio/complementary_data/00092_boy.wav",
+        "context": "They were especially upset that we at the beach."
+    },
+    {
+        "audio_path": "audio/complementary_data/00093_girl.wav",
+        "context": "This cold season has been rough."
+    },
+    {
+        "audio_path": "audio/complementary_data/00093_Ana.wav",
+        "context": "This cold season has been rough."
+    },
+    {
+        "audio_path": "audio/complementary_data/00093_boy.wav",
+        "context": "This cold season has been rough."
+    },
+    {
+        "audio_path": "audio/complementary_data/00094_girl.wav",
+        "context": "This is my inaugural attendance at this book club gathering."
+    },
+    {
+        "audio_path": "audio/complementary_data/00094_Ana.wav",
+        "context": "This is my inaugural attendance at this book club gathering."
+    },
+    {
+        "audio_path": "audio/complementary_data/00094_boy.wav",
+        "context": "This is my inaugural attendance at this book club gathering."
+    },
+    {
+        "audio_path": "audio/complementary_data/00095_girl.wav",
+        "context": "To serve my company as an employee,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00095_Ana.wav",
+        "context": "To serve my company as an employee,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00095_boy.wav",
+        "context": "To serve my company as an employee,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00096_girl.wav",
+        "context": "We argued about the best music."
+    },
+    {
+        "audio_path": "audio/complementary_data/00096_Ana.wav",
+        "context": "We argued about the best music."
+    },
+    {
+        "audio_path": "audio/complementary_data/00096_boy.wav",
+        "context": "We argued about the best music."
+    },
+    {
+        "audio_path": "audio/complementary_data/00097_girl.wav",
+        "context": "We plan to engage in outdoor pursuits."
+    },
+    {
+        "audio_path": "audio/complementary_data/00097_Ana.wav",
+        "context": "We plan to engage in outdoor pursuits."
+    },
+    {
+        "audio_path": "audio/complementary_data/00097_boy.wav",
+        "context": "We plan to engage in outdoor pursuits."
+    },
+    {
+        "audio_path": "audio/complementary_data/00098_girl.wav",
+        "context": "We tossed another potato into the bubbling stew with laughter."
+    },
+    {
+        "audio_path": "audio/complementary_data/00098_Ana.wav",
+        "context": "We tossed another potato into the bubbling stew with laughter."
+    },
+    {
+        "audio_path": "audio/complementary_data/00098_boy.wav",
+        "context": "We tossed another potato into the bubbling stew with laughter."
+    },
+    {
+        "audio_path": "audio/complementary_data/00099_girl.wav",
+        "context": "We're discussing a big deal with our partner tonight."
+    },
+    {
+        "audio_path": "audio/complementary_data/00099_Ana.wav",
+        "context": "We're discussing a big deal with our partner tonight."
+    },
+    {
+        "audio_path": "audio/complementary_data/00099_boy.wav",
+        "context": "We're discussing a big deal with our partner tonight."
+    },
+    {
+        "audio_path": "audio/complementary_data/00100_girl.wav",
+        "context": "We're going to climb the highest mountain in my country."
+    },
+    {
+        "audio_path": "audio/complementary_data/00100_Ana.wav",
+        "context": "We're going to climb the highest mountain in my country."
+    },
+    {
+        "audio_path": "audio/complementary_data/00100_boy.wav",
+        "context": "We're going to climb the highest mountain in my country."
+    },
+    {
+        "audio_path": "audio/complementary_data/00101_girl.wav",
+        "context": "When I speak, the room falls silent."
+    },
+    {
+        "audio_path": "audio/complementary_data/00101_Ana.wav",
+        "context": "When I speak, the room falls silent."
+    },
+    {
+        "audio_path": "audio/complementary_data/00101_boy.wav",
+        "context": "When I speak, the room falls silent."
+    },
+    {
+        "audio_path": "audio/complementary_data/00102_girl.wav",
+        "context": "Working together held no appeal to me."
+    },
+    {
+        "audio_path": "audio/complementary_data/00102_Ana.wav",
+        "context": "Working together held no appeal to me."
+    },
+    {
+        "audio_path": "audio/complementary_data/00102_boy.wav",
+        "context": "Working together held no appeal to me."
+    },
+    {
+        "audio_path": "audio/complementary_data/00103_girl.wav",
+        "context": "Writing an email is easy for me."
+    },
+    {
+        "audio_path": "audio/complementary_data/00103_Ana.wav",
+        "context": "Writing an email is easy for me."
+    },
+    {
+        "audio_path": "audio/complementary_data/00103_boy.wav",
+        "context": "Writing an email is easy for me."
+    }
+]

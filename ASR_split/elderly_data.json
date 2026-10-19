@@ -1,0 +1,1714 @@
+[
+    {
+        "audio_path": "audio/original_data/age/00000_old_man.wav",
+        "context": "My doctor mentioned I should be more mindful of portion sizes, otherwise "
+    },
+    {
+        "audio_path": "audio/original_data/age/00001_John_Madden.wav",
+        "context": "My doctor mentioned I should be more mindful of portion sizes, otherwise "
+    },
+    {
+        "audio_path": "audio/original_data/age/00002_old_women.wav",
+        "context": "My doctor mentioned I should be more mindful of portion sizes, otherwise "
+    },
+    {
+        "audio_path": "audio/original_data/age/00003_Hillary_Clinton.wav",
+        "context": "My doctor mentioned I should be more mindful of portion sizes, otherwise "
+    },
+    {
+        "audio_path": "audio/original_data/age/00008_old_man.wav",
+        "context": "I nearly passed out."
+    },
+    {
+        "audio_path": "audio/original_data/age/00009_John_Madden.wav",
+        "context": "I nearly passed out."
+    },
+    {
+        "audio_path": "audio/original_data/age/00010_old_women.wav",
+        "context": "I nearly passed out."
+    },
+    {
+        "audio_path": "audio/original_data/age/00011_Hillary_Clinton.wav",
+        "context": "I nearly passed out."
+    },
+    {
+        "audio_path": "audio/original_data/age/00016_old_man.wav",
+        "context": "I emptied out my entire purse."
+    },
+    {
+        "audio_path": "audio/original_data/age/00017_John_Madden.wav",
+        "context": "I emptied out my entire purse."
+    },
+    {
+        "audio_path": "audio/original_data/age/00018_old_women.wav",
+        "context": "I emptied out my entire purse."
+    },
+    {
+        "audio_path": "audio/original_data/age/00019_Hillary_Clinton.wav",
+        "context": "I emptied out my entire purse."
+    },
+    {
+        "audio_path": "audio/original_data/age/00024_old_man.wav",
+        "context": "Taylor takes care of us."
+    },
+    {
+        "audio_path": "audio/original_data/age/00025_John_Madden.wav",
+        "context": "Taylor takes care of us."
+    },
+    {
+        "audio_path": "audio/original_data/age/00026_old_women.wav",
+        "context": "Taylor takes care of us."
+    },
+    {
+        "audio_path": "audio/original_data/age/00027_Hillary_Clinton.wav",
+        "context": "Taylor takes care of us."
+    },
+    {
+        "audio_path": "audio/original_data/age/00031_old_man.wav",
+        "context": "My feet are still sore."
+    },
+    {
+        "audio_path": "audio/original_data/age/00032_John_Madden.wav",
+        "context": "My feet are still sore."
+    },
+    {
+        "audio_path": "audio/original_data/age/00033_old_women.wav",
+        "context": "My feet are still sore."
+    },
+    {
+        "audio_path": "audio/original_data/age/00034_Hillary_Clinton.wav",
+        "context": "My feet are still sore."
+    },
+    {
+        "audio_path": "audio/original_data/age/00039_old_man.wav",
+        "context": "The forecast promised clear skies and high temperatures."
+    },
+    {
+        "audio_path": "audio/original_data/age/00040_John_Madden.wav",
+        "context": "The forecast promised clear skies and high temperatures."
+    },
+    {
+        "audio_path": "audio/original_data/age/00041_old_women.wav",
+        "context": "The forecast promised clear skies and high temperatures."
+    },
+    {
+        "audio_path": "audio/original_data/age/00042_Hillary_Clinton.wav",
+        "context": "The forecast promised clear skies and high temperatures."
+    },
+    {
+        "audio_path": "audio/original_data/age/00047_old_man.wav",
+        "context": "My friends are always out socializing."
+    },
+    {
+        "audio_path": "audio/original_data/age/00048_John_Madden.wav",
+        "context": "My friends are always out socializing."
+    },
+    {
+        "audio_path": "audio/original_data/age/00049_old_women.wav",
+        "context": "My friends are always out socializing."
+    },
+    {
+        "audio_path": "audio/original_data/age/00050_Hillary_Clinton.wav",
+        "context": "My friends are always out socializing."
+    },
+    {
+        "audio_path": "audio/original_data/age/00055_old_man.wav",
+        "context": "The king refuses my service"
+    },
+    {
+        "audio_path": "audio/original_data/age/00056_John_Madden.wav",
+        "context": "The king refuses my service"
+    },
+    {
+        "audio_path": "audio/original_data/age/00057_old_women.wav",
+        "context": "The king refuses my service"
+    },
+    {
+        "audio_path": "audio/original_data/age/00058_Hillary_Clinton.wav",
+        "context": "The king refuses my service"
+    },
+    {
+        "audio_path": "audio/original_data/age/00063_old_man.wav",
+        "context": "The rainy weather kept me cooped up inside, but it wasn't all bad."
+    },
+    {
+        "audio_path": "audio/original_data/age/00064_John_Madden.wav",
+        "context": "The rainy weather kept me cooped up inside, but it wasn't all bad."
+    },
+    {
+        "audio_path": "audio/original_data/age/00065_old_women.wav",
+        "context": "The rainy weather kept me cooped up inside, but it wasn't all bad."
+    },
+    {
+        "audio_path": "audio/original_data/age/00066_Hillary_Clinton.wav",
+        "context": "The rainy weather kept me cooped up inside, but it wasn't all bad."
+    },
+    {
+        "audio_path": "audio/original_data/age/00071_old_man.wav",
+        "context": "I hum a tune under my breath."
+    },
+    {
+        "audio_path": "audio/original_data/age/00072_John_Madden.wav",
+        "context": "I hum a tune under my breath."
+    },
+    {
+        "audio_path": "audio/original_data/age/00073_old_women.wav",
+        "context": "I hum a tune under my breath."
+    },
+    {
+        "audio_path": "audio/original_data/age/00074_Hillary_Clinton.wav",
+        "context": "I hum a tune under my breath."
+    },
+    {
+        "audio_path": "audio/original_data/age/00078_old_man.wav",
+        "context": "I hum a tune under my breath."
+    },
+    {
+        "audio_path": "audio/original_data/age/00079_John_Madden.wav",
+        "context": "I hum a tune under my breath."
+    },
+    {
+        "audio_path": "audio/original_data/age/00080_old_women.wav",
+        "context": "I hum a tune under my breath."
+    },
+    {
+        "audio_path": "audio/original_data/age/00081_Hillary_Clinton.wav",
+        "context": "I hum a tune under my breath."
+    },
+    {
+        "audio_path": "audio/original_data/age/00086_old_man.wav",
+        "context": "I failed to follow the instructions."
+    },
+    {
+        "audio_path": "audio/original_data/age/00087_John_Madden.wav",
+        "context": "I failed to follow the instructions."
+    },
+    {
+        "audio_path": "audio/original_data/age/00088_old_women.wav",
+        "context": "I failed to follow the instructions."
+    },
+    {
+        "audio_path": "audio/original_data/age/00089_Hillary_Clinton.wav",
+        "context": "I failed to follow the instructions."
+    },
+    {
+        "audio_path": "audio/original_data/age/00093_old_man.wav",
+        "context": "The contract negotiations turned vicious. His demands became outrageous, designed to cripple my small business."
+    },
+    {
+        "audio_path": "audio/original_data/age/00094_John_Madden.wav",
+        "context": "The contract negotiations turned vicious. His demands became outrageous, designed to cripple my small business."
+    },
+    {
+        "audio_path": "audio/original_data/age/00095_old_women.wav",
+        "context": "The contract negotiations turned vicious. His demands became outrageous, designed to cripple my small business."
+    },
+    {
+        "audio_path": "audio/original_data/age/00096_Hillary_Clinton.wav",
+        "context": "The contract negotiations turned vicious. His demands became outrageous, designed to cripple my small business."
+    },
+    {
+        "audio_path": "audio/original_data/age/00101_old_man.wav",
+        "context": "I'm not good in person."
+    },
+    {
+        "audio_path": "audio/original_data/age/00102_John_Madden.wav",
+        "context": "I'm not good in person."
+    },
+    {
+        "audio_path": "audio/original_data/age/00103_old_women.wav",
+        "context": "I'm not good in person."
+    },
+    {
+        "audio_path": "audio/original_data/age/00104_Hillary_Clinton.wav",
+        "context": "I'm not good in person."
+    },
+    {
+        "audio_path": "audio/original_data/age/00109_old_man.wav",
+        "context": "I love the library in my hometown."
+    },
+    {
+        "audio_path": "audio/original_data/age/00110_John_Madden.wav",
+        "context": "I love the library in my hometown."
+    },
+    {
+        "audio_path": "audio/original_data/age/00111_old_women.wav",
+        "context": "I love the library in my hometown."
+    },
+    {
+        "audio_path": "audio/original_data/age/00112_Hillary_Clinton.wav",
+        "context": "I love the library in my hometown."
+    },
+    {
+        "audio_path": "audio/original_data/age/00117_old_man.wav",
+        "context": "Researching a complex topic can be overwhelming."
+    },
+    {
+        "audio_path": "audio/original_data/age/00118_John_Madden.wav",
+        "context": "Researching a complex topic can be overwhelming."
+    },
+    {
+        "audio_path": "audio/original_data/age/00119_old_women.wav",
+        "context": "Researching a complex topic can be overwhelming."
+    },
+    {
+        "audio_path": "audio/original_data/age/00120_Hillary_Clinton.wav",
+        "context": "Researching a complex topic can be overwhelming."
+    },
+    {
+        "audio_path": "audio/original_data/age/00125_old_man.wav",
+        "context": "She didn't care about the weird look from other people."
+    },
+    {
+        "audio_path": "audio/original_data/age/00126_John_Madden.wav",
+        "context": "She didn't care about the weird look from other people."
+    },
+    {
+        "audio_path": "audio/original_data/age/00127_old_women.wav",
+        "context": "She didn't care about the weird look from other people."
+    },
+    {
+        "audio_path": "audio/original_data/age/00128_Hillary_Clinton.wav",
+        "context": "She didn't care about the weird look from other people."
+    },
+    {
+        "audio_path": "audio/original_data/age/00133_old_man.wav",
+        "context": "I wasn't sure I'd like it at first, but it quickly grew on me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00134_John_Madden.wav",
+        "context": "I wasn't sure I'd like it at first, but it quickly grew on me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00135_old_women.wav",
+        "context": "I wasn't sure I'd like it at first, but it quickly grew on me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00136_Hillary_Clinton.wav",
+        "context": "I wasn't sure I'd like it at first, but it quickly grew on me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00141_old_man.wav",
+        "context": "The playground was a bit crowded."
+    },
+    {
+        "audio_path": "audio/original_data/age/00142_John_Madden.wav",
+        "context": "The playground was a bit crowded."
+    },
+    {
+        "audio_path": "audio/original_data/age/00143_old_women.wav",
+        "context": "The playground was a bit crowded."
+    },
+    {
+        "audio_path": "audio/original_data/age/00144_Hillary_Clinton.wav",
+        "context": "The playground was a bit crowded."
+    },
+    {
+        "audio_path": "audio/original_data/age/00148_old_man.wav",
+        "context": "The stage lights blinded me as I clutched the microphone."
+    },
+    {
+        "audio_path": "audio/original_data/age/00149_John_Madden.wav",
+        "context": "The stage lights blinded me as I clutched the microphone."
+    },
+    {
+        "audio_path": "audio/original_data/age/00150_old_women.wav",
+        "context": "The stage lights blinded me as I clutched the microphone."
+    },
+    {
+        "audio_path": "audio/original_data/age/00151_Hillary_Clinton.wav",
+        "context": "The stage lights blinded me as I clutched the microphone."
+    },
+    {
+        "audio_path": "audio/original_data/age/00156_old_man.wav",
+        "context": "I had trouble handling the gun."
+    },
+    {
+        "audio_path": "audio/original_data/age/00157_John_Madden.wav",
+        "context": "I had trouble handling the gun."
+    },
+    {
+        "audio_path": "audio/original_data/age/00158_old_women.wav",
+        "context": "I had trouble handling the gun."
+    },
+    {
+        "audio_path": "audio/original_data/age/00159_Hillary_Clinton.wav",
+        "context": "I had trouble handling the gun."
+    },
+    {
+        "audio_path": "audio/original_data/age/00164_old_man.wav",
+        "context": "Running my fingers across my scalp,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00165_John_Madden.wav",
+        "context": "Running my fingers across my scalp,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00166_old_women.wav",
+        "context": "Running my fingers across my scalp,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00167_Hillary_Clinton.wav",
+        "context": "Running my fingers across my scalp,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00172_old_man.wav",
+        "context": "The storm ripped the roof clean off the shed, leaving my tools exposed to the pouring rain."
+    },
+    {
+        "audio_path": "audio/original_data/age/00173_John_Madden.wav",
+        "context": "The storm ripped the roof clean off the shed, leaving my tools exposed to the pouring rain."
+    },
+    {
+        "audio_path": "audio/original_data/age/00174_old_women.wav",
+        "context": "The storm ripped the roof clean off the shed, leaving my tools exposed to the pouring rain."
+    },
+    {
+        "audio_path": "audio/original_data/age/00175_Hillary_Clinton.wav",
+        "context": "The storm ripped the roof clean off the shed, leaving my tools exposed to the pouring rain."
+    },
+    {
+        "audio_path": "audio/original_data/age/00180_old_man.wav",
+        "context": "People-watching at the airport is always entertaining."
+    },
+    {
+        "audio_path": "audio/original_data/age/00181_John_Madden.wav",
+        "context": "People-watching at the airport is always entertaining."
+    },
+    {
+        "audio_path": "audio/original_data/age/00182_old_women.wav",
+        "context": "People-watching at the airport is always entertaining."
+    },
+    {
+        "audio_path": "audio/original_data/age/00183_Hillary_Clinton.wav",
+        "context": "People-watching at the airport is always entertaining."
+    },
+    {
+        "audio_path": "audio/original_data/age/00188_old_man.wav",
+        "context": "The doctor recommended I improve my cardiovascular health."
+    },
+    {
+        "audio_path": "audio/original_data/age/00189_John_Madden.wav",
+        "context": "The doctor recommended I improve my cardiovascular health."
+    },
+    {
+        "audio_path": "audio/original_data/age/00190_old_women.wav",
+        "context": "The doctor recommended I improve my cardiovascular health."
+    },
+    {
+        "audio_path": "audio/original_data/age/00191_Hillary_Clinton.wav",
+        "context": "The doctor recommended I improve my cardiovascular health."
+    },
+    {
+        "audio_path": "audio/original_data/age/00196_old_man.wav",
+        "context": "I pushed myself through the hundred-mile run."
+    },
+    {
+        "audio_path": "audio/original_data/age/00197_John_Madden.wav",
+        "context": "I pushed myself through the hundred-mile run."
+    },
+    {
+        "audio_path": "audio/original_data/age/00198_old_women.wav",
+        "context": "I pushed myself through the hundred-mile run."
+    },
+    {
+        "audio_path": "audio/original_data/age/00199_Hillary_Clinton.wav",
+        "context": "I pushed myself through the hundred-mile run."
+    },
+    {
+        "audio_path": "audio/original_data/age/00204_old_man.wav",
+        "context": "When I speak, the room falls silent."
+    },
+    {
+        "audio_path": "audio/original_data/age/00205_John_Madden.wav",
+        "context": "When I speak, the room falls silent."
+    },
+    {
+        "audio_path": "audio/original_data/age/00206_old_women.wav",
+        "context": "When I speak, the room falls silent."
+    },
+    {
+        "audio_path": "audio/original_data/age/00207_Hillary_Clinton.wav",
+        "context": "When I speak, the room falls silent."
+    },
+    {
+        "audio_path": "audio/original_data/age/00212_old_man.wav",
+        "context": "I went for a full body health check-up."
+    },
+    {
+        "audio_path": "audio/original_data/age/00213_John_Madden.wav",
+        "context": "I went for a full body health check-up."
+    },
+    {
+        "audio_path": "audio/original_data/age/00214_old_women.wav",
+        "context": "I went for a full body health check-up."
+    },
+    {
+        "audio_path": "audio/original_data/age/00215_Hillary_Clinton.wav",
+        "context": "I went for a full body health check-up."
+    },
+    {
+        "audio_path": "audio/original_data/age/00220_old_man.wav",
+        "context": "Working together held no appeal to me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00221_John_Madden.wav",
+        "context": "Working together held no appeal to me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00222_old_women.wav",
+        "context": "Working together held no appeal to me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00223_Hillary_Clinton.wav",
+        "context": "Working together held no appeal to me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00228_old_man.wav",
+        "context": "I was stuck in traffic on the highway for hours."
+    },
+    {
+        "audio_path": "audio/original_data/age/00229_John_Madden.wav",
+        "context": "I was stuck in traffic on the highway for hours."
+    },
+    {
+        "audio_path": "audio/original_data/age/00230_old_women.wav",
+        "context": "I was stuck in traffic on the highway for hours."
+    },
+    {
+        "audio_path": "audio/original_data/age/00231_Hillary_Clinton.wav",
+        "context": "I was stuck in traffic on the highway for hours."
+    },
+    {
+        "audio_path": "audio/original_data/age/00236_old_man.wav",
+        "context": "He yearned to understand me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00237_John_Madden.wav",
+        "context": "He yearned to understand me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00238_old_women.wav",
+        "context": "He yearned to understand me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00239_Hillary_Clinton.wav",
+        "context": "He yearned to understand me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00244_old_man.wav",
+        "context": "Simmering cocoa with a spice blend fit for a gingerbread house, I ended up with a thick, suspicious-looking dark brew."
+    },
+    {
+        "audio_path": "audio/original_data/age/00245_John_Madden.wav",
+        "context": "Simmering cocoa with a spice blend fit for a gingerbread house, I ended up with a thick, suspicious-looking dark brew."
+    },
+    {
+        "audio_path": "audio/original_data/age/00246_old_women.wav",
+        "context": "Simmering cocoa with a spice blend fit for a gingerbread house, I ended up with a thick, suspicious-looking dark brew."
+    },
+    {
+        "audio_path": "audio/original_data/age/00247_Hillary_Clinton.wav",
+        "context": "Simmering cocoa with a spice blend fit for a gingerbread house, I ended up with a thick, suspicious-looking dark brew."
+    },
+    {
+        "audio_path": "audio/original_data/age/00252_old_man.wav",
+        "context": "It was a delightful routine."
+    },
+    {
+        "audio_path": "audio/original_data/age/00253_John_Madden.wav",
+        "context": "It was a delightful routine."
+    },
+    {
+        "audio_path": "audio/original_data/age/00254_old_women.wav",
+        "context": "It was a delightful routine."
+    },
+    {
+        "audio_path": "audio/original_data/age/00255_Hillary_Clinton.wav",
+        "context": "It was a delightful routine."
+    },
+    {
+        "audio_path": "audio/original_data/age/00260_old_man.wav",
+        "context": "There's a music festival happening downtown, and the lineup is epic."
+    },
+    {
+        "audio_path": "audio/original_data/age/00261_John_Madden.wav",
+        "context": "There's a music festival happening downtown, and the lineup is epic."
+    },
+    {
+        "audio_path": "audio/original_data/age/00262_old_women.wav",
+        "context": "There's a music festival happening downtown, and the lineup is epic."
+    },
+    {
+        "audio_path": "audio/original_data/age/00263_Hillary_Clinton.wav",
+        "context": "There's a music festival happening downtown, and the lineup is epic."
+    },
+    {
+        "audio_path": "audio/original_data/age/00268_old_man.wav",
+        "context": "I have a wealth of knowledge on the spy."
+    },
+    {
+        "audio_path": "audio/original_data/age/00269_John_Madden.wav",
+        "context": "I have a wealth of knowledge on the spy."
+    },
+    {
+        "audio_path": "audio/original_data/age/00270_old_women.wav",
+        "context": "I have a wealth of knowledge on the spy."
+    },
+    {
+        "audio_path": "audio/original_data/age/00271_Hillary_Clinton.wav",
+        "context": "I have a wealth of knowledge on the spy."
+    },
+    {
+        "audio_path": "audio/original_data/age/00276_old_man.wav",
+        "context": "They didn't believe my secret."
+    },
+    {
+        "audio_path": "audio/original_data/age/00277_John_Madden.wav",
+        "context": "They didn't believe my secret."
+    },
+    {
+        "audio_path": "audio/original_data/age/00278_old_women.wav",
+        "context": "They didn't believe my secret."
+    },
+    {
+        "audio_path": "audio/original_data/age/00279_Hillary_Clinton.wav",
+        "context": "They didn't believe my secret."
+    },
+    {
+        "audio_path": "audio/original_data/age/00284_old_man.wav",
+        "context": "Writing an email is easy for me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00285_John_Madden.wav",
+        "context": "Writing an email is easy for me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00286_old_women.wav",
+        "context": "Writing an email is easy for me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00287_Hillary_Clinton.wav",
+        "context": "Writing an email is easy for me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00292_old_man.wav",
+        "context": "It's hurtful to hear your boyfriend doesn't seem accepting of us."
+    },
+    {
+        "audio_path": "audio/original_data/age/00293_John_Madden.wav",
+        "context": "It's hurtful to hear your boyfriend doesn't seem accepting of us."
+    },
+    {
+        "audio_path": "audio/original_data/age/00294_old_women.wav",
+        "context": "It's hurtful to hear your boyfriend doesn't seem accepting of us."
+    },
+    {
+        "audio_path": "audio/original_data/age/00295_Hillary_Clinton.wav",
+        "context": "It's hurtful to hear your boyfriend doesn't seem accepting of us."
+    },
+    {
+        "audio_path": "audio/original_data/age/00308_old_man.wav",
+        "context": "After reading the last page of the book."
+    },
+    {
+        "audio_path": "audio/original_data/age/00309_John_Madden.wav",
+        "context": "After reading the last page of the book."
+    },
+    {
+        "audio_path": "audio/original_data/age/00310_old_women.wav",
+        "context": "After reading the last page of the book."
+    },
+    {
+        "audio_path": "audio/original_data/age/00311_Hillary_Clinton.wav",
+        "context": "After reading the last page of the book."
+    },
+    {
+        "audio_path": "audio/original_data/age/00316_old_man.wav",
+        "context": "The little child in our family is growing like a weed!"
+    },
+    {
+        "audio_path": "audio/original_data/age/00317_John_Madden.wav",
+        "context": "The little child in our family is growing like a weed!"
+    },
+    {
+        "audio_path": "audio/original_data/age/00318_old_women.wav",
+        "context": "The little child in our family is growing like a weed!"
+    },
+    {
+        "audio_path": "audio/original_data/age/00319_Hillary_Clinton.wav",
+        "context": "The little child in our family is growing like a weed!"
+    },
+    {
+        "audio_path": "audio/original_data/age/00324_old_man.wav",
+        "context": "My habit changed these years."
+    },
+    {
+        "audio_path": "audio/original_data/age/00325_John_Madden.wav",
+        "context": "My habit changed these years."
+    },
+    {
+        "audio_path": "audio/original_data/age/00326_old_women.wav",
+        "context": "My habit changed these years."
+    },
+    {
+        "audio_path": "audio/original_data/age/00327_Hillary_Clinton.wav",
+        "context": "My habit changed these years."
+    },
+    {
+        "audio_path": "audio/original_data/age/00332_old_man.wav",
+        "context": "I am annoying to people in the park, I know."
+    },
+    {
+        "audio_path": "audio/original_data/age/00333_John_Madden.wav",
+        "context": "I am annoying to people in the park, I know."
+    },
+    {
+        "audio_path": "audio/original_data/age/00334_old_women.wav",
+        "context": "I am annoying to people in the park, I know."
+    },
+    {
+        "audio_path": "audio/original_data/age/00335_Hillary_Clinton.wav",
+        "context": "I am annoying to people in the park, I know."
+    },
+    {
+        "audio_path": "audio/original_data/age/00339_old_man.wav",
+        "context": "Thanks to my training and background, I feel confident tackling most tasks assigned to me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00340_John_Madden.wav",
+        "context": "Thanks to my training and background, I feel confident tackling most tasks assigned to me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00341_old_women.wav",
+        "context": "Thanks to my training and background, I feel confident tackling most tasks assigned to me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00342_Hillary_Clinton.wav",
+        "context": "Thanks to my training and background, I feel confident tackling most tasks assigned to me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00347_old_man.wav",
+        "context": "I need to find a way to improve my posture."
+    },
+    {
+        "audio_path": "audio/original_data/age/00348_John_Madden.wav",
+        "context": "I need to find a way to improve my posture."
+    },
+    {
+        "audio_path": "audio/original_data/age/00349_old_women.wav",
+        "context": "I need to find a way to improve my posture."
+    },
+    {
+        "audio_path": "audio/original_data/age/00350_Hillary_Clinton.wav",
+        "context": "I need to find a way to improve my posture."
+    },
+    {
+        "audio_path": "audio/original_data/age/00355_old_man.wav",
+        "context": "I almost got badly injured."
+    },
+    {
+        "audio_path": "audio/original_data/age/00356_John_Madden.wav",
+        "context": "I almost got badly injured."
+    },
+    {
+        "audio_path": "audio/original_data/age/00357_old_women.wav",
+        "context": "I almost got badly injured."
+    },
+    {
+        "audio_path": "audio/original_data/age/00358_Hillary_Clinton.wav",
+        "context": "I almost got badly injured."
+    },
+    {
+        "audio_path": "audio/original_data/age/00363_old_man.wav",
+        "context": "We tossed another potato into the bubbling stew with laughter."
+    },
+    {
+        "audio_path": "audio/original_data/age/00364_John_Madden.wav",
+        "context": "We tossed another potato into the bubbling stew with laughter."
+    },
+    {
+        "audio_path": "audio/original_data/age/00365_old_women.wav",
+        "context": "We tossed another potato into the bubbling stew with laughter."
+    },
+    {
+        "audio_path": "audio/original_data/age/00366_Hillary_Clinton.wav",
+        "context": "We tossed another potato into the bubbling stew with laughter."
+    },
+    {
+        "audio_path": "audio/original_data/age/00371_old_man.wav",
+        "context": "After that long, demanding shift"
+    },
+    {
+        "audio_path": "audio/original_data/age/00372_John_Madden.wav",
+        "context": "After that long, demanding shift"
+    },
+    {
+        "audio_path": "audio/original_data/age/00373_old_women.wav",
+        "context": "After that long, demanding shift"
+    },
+    {
+        "audio_path": "audio/original_data/age/00374_Hillary_Clinton.wav",
+        "context": "After that long, demanding shift"
+    },
+    {
+        "audio_path": "audio/original_data/age/00379_old_man.wav",
+        "context": "I do not deserve the promotion."
+    },
+    {
+        "audio_path": "audio/original_data/age/00380_John_Madden.wav",
+        "context": "I do not deserve the promotion."
+    },
+    {
+        "audio_path": "audio/original_data/age/00381_old_women.wav",
+        "context": "I do not deserve the promotion."
+    },
+    {
+        "audio_path": "audio/original_data/age/00382_Hillary_Clinton.wav",
+        "context": "I do not deserve the promotion."
+    },
+    {
+        "audio_path": "audio/original_data/age/00387_old_man.wav",
+        "context": "My laughter echoed through the house."
+    },
+    {
+        "audio_path": "audio/original_data/age/00388_John_Madden.wav",
+        "context": "My laughter echoed through the house."
+    },
+    {
+        "audio_path": "audio/original_data/age/00389_old_women.wav",
+        "context": "My laughter echoed through the house."
+    },
+    {
+        "audio_path": "audio/original_data/age/00390_Hillary_Clinton.wav",
+        "context": "My laughter echoed through the house."
+    },
+    {
+        "audio_path": "audio/original_data/age/00395_old_man.wav",
+        "context": "My laughter echoed through the house."
+    },
+    {
+        "audio_path": "audio/original_data/age/00396_John_Madden.wav",
+        "context": "My laughter echoed through the house."
+    },
+    {
+        "audio_path": "audio/original_data/age/00397_old_women.wav",
+        "context": "My laughter echoed through the house."
+    },
+    {
+        "audio_path": "audio/original_data/age/00398_Hillary_Clinton.wav",
+        "context": "My laughter echoed through the house."
+    },
+    {
+        "audio_path": "audio/original_data/age/00402_old_man.wav",
+        "context": "I could not follow the simple instruction."
+    },
+    {
+        "audio_path": "audio/original_data/age/00403_John_Madden.wav",
+        "context": "I could not follow the simple instruction."
+    },
+    {
+        "audio_path": "audio/original_data/age/00404_old_women.wav",
+        "context": "I could not follow the simple instruction."
+    },
+    {
+        "audio_path": "audio/original_data/age/00405_Hillary_Clinton.wav",
+        "context": "I could not follow the simple instruction."
+    },
+    {
+        "audio_path": "audio/original_data/age/00410_old_man.wav",
+        "context": "I'm struggling with taking care of a toddler."
+    },
+    {
+        "audio_path": "audio/original_data/age/00411_John_Madden.wav",
+        "context": "I'm struggling with taking care of a toddler."
+    },
+    {
+        "audio_path": "audio/original_data/age/00412_old_women.wav",
+        "context": "I'm struggling with taking care of a toddler."
+    },
+    {
+        "audio_path": "audio/original_data/age/00413_Hillary_Clinton.wav",
+        "context": "I'm struggling with taking care of a toddler."
+    },
+    {
+        "audio_path": "audio/original_data/age/00418_old_man.wav",
+        "context": "After I compliment Abigail,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00419_John_Madden.wav",
+        "context": "After I compliment Abigail,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00420_old_women.wav",
+        "context": "After I compliment Abigail,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00421_Hillary_Clinton.wav",
+        "context": "After I compliment Abigail,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00426_old_man.wav",
+        "context": "I held a lot of authority in the office."
+    },
+    {
+        "audio_path": "audio/original_data/age/00427_John_Madden.wav",
+        "context": "I held a lot of authority in the office."
+    },
+    {
+        "audio_path": "audio/original_data/age/00428_old_women.wav",
+        "context": "I held a lot of authority in the office."
+    },
+    {
+        "audio_path": "audio/original_data/age/00429_Hillary_Clinton.wav",
+        "context": "I held a lot of authority in the office."
+    },
+    {
+        "audio_path": "audio/original_data/age/00434_old_man.wav",
+        "context": "I'm working on my project this night."
+    },
+    {
+        "audio_path": "audio/original_data/age/00435_John_Madden.wav",
+        "context": "I'm working on my project this night."
+    },
+    {
+        "audio_path": "audio/original_data/age/00436_old_women.wav",
+        "context": "I'm working on my project this night."
+    },
+    {
+        "audio_path": "audio/original_data/age/00437_Hillary_Clinton.wav",
+        "context": "I'm working on my project this night."
+    },
+    {
+        "audio_path": "audio/original_data/age/00442_old_man.wav",
+        "context": "The rain blurring the world outside my window."
+    },
+    {
+        "audio_path": "audio/original_data/age/00443_John_Madden.wav",
+        "context": "The rain blurring the world outside my window."
+    },
+    {
+        "audio_path": "audio/original_data/age/00444_old_women.wav",
+        "context": "The rain blurring the world outside my window."
+    },
+    {
+        "audio_path": "audio/original_data/age/00445_Hillary_Clinton.wav",
+        "context": "The rain blurring the world outside my window."
+    },
+    {
+        "audio_path": "audio/original_data/age/00450_old_man.wav",
+        "context": "I find the book on search engine."
+    },
+    {
+        "audio_path": "audio/original_data/age/00451_John_Madden.wav",
+        "context": "I find the book on search engine."
+    },
+    {
+        "audio_path": "audio/original_data/age/00452_old_women.wav",
+        "context": "I find the book on search engine."
+    },
+    {
+        "audio_path": "audio/original_data/age/00453_Hillary_Clinton.wav",
+        "context": "I find the book on search engine."
+    },
+    {
+        "audio_path": "audio/original_data/age/00458_old_man.wav",
+        "context": "They were especially upset that we at the beach."
+    },
+    {
+        "audio_path": "audio/original_data/age/00459_John_Madden.wav",
+        "context": "They were especially upset that we at the beach."
+    },
+    {
+        "audio_path": "audio/original_data/age/00460_old_women.wav",
+        "context": "They were especially upset that we at the beach."
+    },
+    {
+        "audio_path": "audio/original_data/age/00461_Hillary_Clinton.wav",
+        "context": "They were especially upset that we at the beach."
+    },
+    {
+        "audio_path": "audio/original_data/age/00466_old_man.wav",
+        "context": "I sit in the living room every night."
+    },
+    {
+        "audio_path": "audio/original_data/age/00467_John_Madden.wav",
+        "context": "I sit in the living room every night."
+    },
+    {
+        "audio_path": "audio/original_data/age/00468_old_women.wav",
+        "context": "I sit in the living room every night."
+    },
+    {
+        "audio_path": "audio/original_data/age/00469_Hillary_Clinton.wav",
+        "context": "I sit in the living room every night."
+    },
+    {
+        "audio_path": "audio/original_data/age/00474_old_man.wav",
+        "context": "I discuss my monthly spending with my family."
+    },
+    {
+        "audio_path": "audio/original_data/age/00475_John_Madden.wav",
+        "context": "I discuss my monthly spending with my family."
+    },
+    {
+        "audio_path": "audio/original_data/age/00476_old_women.wav",
+        "context": "I discuss my monthly spending with my family."
+    },
+    {
+        "audio_path": "audio/original_data/age/00477_Hillary_Clinton.wav",
+        "context": "I discuss my monthly spending with my family."
+    },
+    {
+        "audio_path": "audio/original_data/age/00482_old_man.wav",
+        "context": "Standing amidst the ruins of the ancient city,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00483_John_Madden.wav",
+        "context": "Standing amidst the ruins of the ancient city,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00484_old_women.wav",
+        "context": "Standing amidst the ruins of the ancient city,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00485_Hillary_Clinton.wav",
+        "context": "Standing amidst the ruins of the ancient city,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00490_old_man.wav",
+        "context": "I was surrounded by the serenity of nature."
+    },
+    {
+        "audio_path": "audio/original_data/age/00491_John_Madden.wav",
+        "context": "I was surrounded by the serenity of nature."
+    },
+    {
+        "audio_path": "audio/original_data/age/00492_old_women.wav",
+        "context": "I was surrounded by the serenity of nature."
+    },
+    {
+        "audio_path": "audio/original_data/age/00493_Hillary_Clinton.wav",
+        "context": "I was surrounded by the serenity of nature."
+    },
+    {
+        "audio_path": "audio/original_data/age/00498_old_man.wav",
+        "context": "I grip the wrench and attempt to fix the faucet."
+    },
+    {
+        "audio_path": "audio/original_data/age/00499_John_Madden.wav",
+        "context": "I grip the wrench and attempt to fix the faucet."
+    },
+    {
+        "audio_path": "audio/original_data/age/00500_old_women.wav",
+        "context": "I grip the wrench and attempt to fix the faucet."
+    },
+    {
+        "audio_path": "audio/original_data/age/00501_Hillary_Clinton.wav",
+        "context": "I grip the wrench and attempt to fix the faucet."
+    },
+    {
+        "audio_path": "audio/original_data/age/00506_old_man.wav",
+        "context": "I refuse to eat brocoli."
+    },
+    {
+        "audio_path": "audio/original_data/age/00507_John_Madden.wav",
+        "context": "I refuse to eat brocoli."
+    },
+    {
+        "audio_path": "audio/original_data/age/00508_old_women.wav",
+        "context": "I refuse to eat brocoli."
+    },
+    {
+        "audio_path": "audio/original_data/age/00509_Hillary_Clinton.wav",
+        "context": "I refuse to eat brocoli."
+    },
+    {
+        "audio_path": "audio/original_data/age/00513_old_man.wav",
+        "context": "I got a new dessert recipe yesterday and need to bake it."
+    },
+    {
+        "audio_path": "audio/original_data/age/00514_John_Madden.wav",
+        "context": "I got a new dessert recipe yesterday and need to bake it."
+    },
+    {
+        "audio_path": "audio/original_data/age/00515_old_women.wav",
+        "context": "I got a new dessert recipe yesterday and need to bake it."
+    },
+    {
+        "audio_path": "audio/original_data/age/00516_Hillary_Clinton.wav",
+        "context": "I got a new dessert recipe yesterday and need to bake it."
+    },
+    {
+        "audio_path": "audio/original_data/age/00521_old_man.wav",
+        "context": "We're going to climb the highest mountain in my country."
+    },
+    {
+        "audio_path": "audio/original_data/age/00522_John_Madden.wav",
+        "context": "We're going to climb the highest mountain in my country."
+    },
+    {
+        "audio_path": "audio/original_data/age/00523_old_women.wav",
+        "context": "We're going to climb the highest mountain in my country."
+    },
+    {
+        "audio_path": "audio/original_data/age/00524_Hillary_Clinton.wav",
+        "context": "We're going to climb the highest mountain in my country."
+    },
+    {
+        "audio_path": "audio/original_data/age/00529_old_man.wav",
+        "context": "We're discussing a big deal with our partner tonight."
+    },
+    {
+        "audio_path": "audio/original_data/age/00530_John_Madden.wav",
+        "context": "We're discussing a big deal with our partner tonight."
+    },
+    {
+        "audio_path": "audio/original_data/age/00531_old_women.wav",
+        "context": "We're discussing a big deal with our partner tonight."
+    },
+    {
+        "audio_path": "audio/original_data/age/00532_Hillary_Clinton.wav",
+        "context": "We're discussing a big deal with our partner tonight."
+    },
+    {
+        "audio_path": "audio/original_data/age/00537_old_man.wav",
+        "context": "Learning a new language takes time and dedication. "
+    },
+    {
+        "audio_path": "audio/original_data/age/00538_John_Madden.wav",
+        "context": "Learning a new language takes time and dedication. "
+    },
+    {
+        "audio_path": "audio/original_data/age/00539_old_women.wav",
+        "context": "Learning a new language takes time and dedication. "
+    },
+    {
+        "audio_path": "audio/original_data/age/00540_Hillary_Clinton.wav",
+        "context": "Learning a new language takes time and dedication. "
+    },
+    {
+        "audio_path": "audio/original_data/age/00545_old_man.wav",
+        "context": "I hobbled out of the theater."
+    },
+    {
+        "audio_path": "audio/original_data/age/00546_John_Madden.wav",
+        "context": "I hobbled out of the theater."
+    },
+    {
+        "audio_path": "audio/original_data/age/00547_old_women.wav",
+        "context": "I hobbled out of the theater."
+    },
+    {
+        "audio_path": "audio/original_data/age/00548_Hillary_Clinton.wav",
+        "context": "I hobbled out of the theater."
+    },
+    {
+        "audio_path": "audio/original_data/age/00553_old_man.wav",
+        "context": "We argued about the best music."
+    },
+    {
+        "audio_path": "audio/original_data/age/00554_John_Madden.wav",
+        "context": "We argued about the best music."
+    },
+    {
+        "audio_path": "audio/original_data/age/00555_old_women.wav",
+        "context": "We argued about the best music."
+    },
+    {
+        "audio_path": "audio/original_data/age/00556_Hillary_Clinton.wav",
+        "context": "We argued about the best music."
+    },
+    {
+        "audio_path": "audio/original_data/age/00561_old_man.wav",
+        "context": "I was too tired to go home."
+    },
+    {
+        "audio_path": "audio/original_data/age/00562_John_Madden.wav",
+        "context": "I was too tired to go home."
+    },
+    {
+        "audio_path": "audio/original_data/age/00563_old_women.wav",
+        "context": "I was too tired to go home."
+    },
+    {
+        "audio_path": "audio/original_data/age/00564_Hillary_Clinton.wav",
+        "context": "I was too tired to go home."
+    },
+    {
+        "audio_path": "audio/original_data/age/00568_old_man.wav",
+        "context": "I was too tired to go home."
+    },
+    {
+        "audio_path": "audio/original_data/age/00569_John_Madden.wav",
+        "context": "I was too tired to go home."
+    },
+    {
+        "audio_path": "audio/original_data/age/00570_old_women.wav",
+        "context": "I was too tired to go home."
+    },
+    {
+        "audio_path": "audio/original_data/age/00571_Hillary_Clinton.wav",
+        "context": "I was too tired to go home."
+    },
+    {
+        "audio_path": "audio/original_data/age/00575_old_man.wav",
+        "context": "The waiter rattled off the daily specials."
+    },
+    {
+        "audio_path": "audio/original_data/age/00576_John_Madden.wav",
+        "context": "The waiter rattled off the daily specials."
+    },
+    {
+        "audio_path": "audio/original_data/age/00577_old_women.wav",
+        "context": "The waiter rattled off the daily specials."
+    },
+    {
+        "audio_path": "audio/original_data/age/00578_Hillary_Clinton.wav",
+        "context": "The waiter rattled off the daily specials."
+    },
+    {
+        "audio_path": "audio/original_data/age/00582_old_man.wav",
+        "context": "This cold season has been rough."
+    },
+    {
+        "audio_path": "audio/original_data/age/00583_John_Madden.wav",
+        "context": "This cold season has been rough."
+    },
+    {
+        "audio_path": "audio/original_data/age/00584_old_women.wav",
+        "context": "This cold season has been rough."
+    },
+    {
+        "audio_path": "audio/original_data/age/00585_Hillary_Clinton.wav",
+        "context": "This cold season has been rough."
+    },
+    {
+        "audio_path": "audio/original_data/age/00590_old_man.wav",
+        "context": "Disoriented and adrift after a sudden storm, panic surged through me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00591_John_Madden.wav",
+        "context": "Disoriented and adrift after a sudden storm, panic surged through me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00592_old_women.wav",
+        "context": "Disoriented and adrift after a sudden storm, panic surged through me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00593_Hillary_Clinton.wav",
+        "context": "Disoriented and adrift after a sudden storm, panic surged through me."
+    },
+    {
+        "audio_path": "audio/original_data/age/00598_old_man.wav",
+        "context": "I lived at home with many cats."
+    },
+    {
+        "audio_path": "audio/original_data/age/00599_John_Madden.wav",
+        "context": "I lived at home with many cats."
+    },
+    {
+        "audio_path": "audio/original_data/age/00600_old_women.wav",
+        "context": "I lived at home with many cats."
+    },
+    {
+        "audio_path": "audio/original_data/age/00601_Hillary_Clinton.wav",
+        "context": "I lived at home with many cats."
+    },
+    {
+        "audio_path": "audio/original_data/age/00606_old_man.wav",
+        "context": "Having a stutter made me dread public speaking."
+    },
+    {
+        "audio_path": "audio/original_data/age/00607_John_Madden.wav",
+        "context": "Having a stutter made me dread public speaking."
+    },
+    {
+        "audio_path": "audio/original_data/age/00608_old_women.wav",
+        "context": "Having a stutter made me dread public speaking."
+    },
+    {
+        "audio_path": "audio/original_data/age/00609_Hillary_Clinton.wav",
+        "context": "Having a stutter made me dread public speaking."
+    },
+    {
+        "audio_path": "audio/original_data/age/00613_old_man.wav",
+        "context": "I aced my interview and thrived under pressure."
+    },
+    {
+        "audio_path": "audio/original_data/age/00614_John_Madden.wav",
+        "context": "I aced my interview and thrived under pressure."
+    },
+    {
+        "audio_path": "audio/original_data/age/00615_old_women.wav",
+        "context": "I aced my interview and thrived under pressure."
+    },
+    {
+        "audio_path": "audio/original_data/age/00616_Hillary_Clinton.wav",
+        "context": "I aced my interview and thrived under pressure."
+    },
+    {
+        "audio_path": "audio/original_data/age/00621_old_man.wav",
+        "context": "Feeling overwhelmed by the city noise, I longed for some quiet time."
+    },
+    {
+        "audio_path": "audio/original_data/age/00622_John_Madden.wav",
+        "context": "Feeling overwhelmed by the city noise, I longed for some quiet time."
+    },
+    {
+        "audio_path": "audio/original_data/age/00623_old_women.wav",
+        "context": "Feeling overwhelmed by the city noise, I longed for some quiet time."
+    },
+    {
+        "audio_path": "audio/original_data/age/00624_Hillary_Clinton.wav",
+        "context": "Feeling overwhelmed by the city noise, I longed for some quiet time."
+    },
+    {
+        "audio_path": "audio/original_data/age/00629_old_man.wav",
+        "context": "The local bookstore became a haven for lively discussions on everything."
+    },
+    {
+        "audio_path": "audio/original_data/age/00630_John_Madden.wav",
+        "context": "The local bookstore became a haven for lively discussions on everything."
+    },
+    {
+        "audio_path": "audio/original_data/age/00631_old_women.wav",
+        "context": "The local bookstore became a haven for lively discussions on everything."
+    },
+    {
+        "audio_path": "audio/original_data/age/00632_Hillary_Clinton.wav",
+        "context": "The local bookstore became a haven for lively discussions on everything."
+    },
+    {
+        "audio_path": "audio/original_data/age/00637_old_man.wav",
+        "context": "I had back surgery and was in agony."
+    },
+    {
+        "audio_path": "audio/original_data/age/00638_John_Madden.wav",
+        "context": "I had back surgery and was in agony."
+    },
+    {
+        "audio_path": "audio/original_data/age/00639_old_women.wav",
+        "context": "I had back surgery and was in agony."
+    },
+    {
+        "audio_path": "audio/original_data/age/00640_Hillary_Clinton.wav",
+        "context": "I had back surgery and was in agony."
+    },
+    {
+        "audio_path": "audio/original_data/age/00644_old_man.wav",
+        "context": "My family and I were standing outside the Walmart trying to book a cab on Uber."
+    },
+    {
+        "audio_path": "audio/original_data/age/00645_John_Madden.wav",
+        "context": "My family and I were standing outside the Walmart trying to book a cab on Uber."
+    },
+    {
+        "audio_path": "audio/original_data/age/00646_old_women.wav",
+        "context": "My family and I were standing outside the Walmart trying to book a cab on Uber."
+    },
+    {
+        "audio_path": "audio/original_data/age/00647_Hillary_Clinton.wav",
+        "context": "My family and I were standing outside the Walmart trying to book a cab on Uber."
+    },
+    {
+        "audio_path": "audio/original_data/age/00652_old_man.wav",
+        "context": "My family and I slowly plodded along the footpath near the Stop N Shop."
+    },
+    {
+        "audio_path": "audio/original_data/age/00653_John_Madden.wav",
+        "context": "My family and I slowly plodded along the footpath near the Stop N Shop."
+    },
+    {
+        "audio_path": "audio/original_data/age/00654_old_women.wav",
+        "context": "My family and I slowly plodded along the footpath near the Stop N Shop."
+    },
+    {
+        "audio_path": "audio/original_data/age/00655_Hillary_Clinton.wav",
+        "context": "My family and I slowly plodded along the footpath near the Stop N Shop."
+    },
+    {
+        "audio_path": "audio/original_data/age/00668_old_man.wav",
+        "context": "As I walked into the kitchen,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00669_John_Madden.wav",
+        "context": "As I walked into the kitchen,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00670_old_women.wav",
+        "context": "As I walked into the kitchen,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00671_Hillary_Clinton.wav",
+        "context": "As I walked into the kitchen,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00676_old_man.wav",
+        "context": "I have been serving as a professor and leading a course this semester."
+    },
+    {
+        "audio_path": "audio/original_data/age/00677_John_Madden.wav",
+        "context": "I have been serving as a professor and leading a course this semester."
+    },
+    {
+        "audio_path": "audio/original_data/age/00678_old_women.wav",
+        "context": "I have been serving as a professor and leading a course this semester."
+    },
+    {
+        "audio_path": "audio/original_data/age/00679_Hillary_Clinton.wav",
+        "context": "I have been serving as a professor and leading a course this semester."
+    },
+    {
+        "audio_path": "audio/original_data/age/00684_old_man.wav",
+        "context": "In the midst of this rapid whirlwind of technological change,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00685_John_Madden.wav",
+        "context": "In the midst of this rapid whirlwind of technological change,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00686_old_women.wav",
+        "context": "In the midst of this rapid whirlwind of technological change,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00687_Hillary_Clinton.wav",
+        "context": "In the midst of this rapid whirlwind of technological change,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00692_old_man.wav",
+        "context": "I've set up a meeting with my colleagues,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00693_John_Madden.wav",
+        "context": "I've set up a meeting with my colleagues,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00694_old_women.wav",
+        "context": "I've set up a meeting with my colleagues,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00695_Hillary_Clinton.wav",
+        "context": "I've set up a meeting with my colleagues,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00700_old_man.wav",
+        "context": "After hearing about my family member's engagement to their same-sex partner,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00701_John_Madden.wav",
+        "context": "After hearing about my family member's engagement to their same-sex partner,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00702_old_women.wav",
+        "context": "After hearing about my family member's engagement to their same-sex partner,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00703_Hillary_Clinton.wav",
+        "context": "After hearing about my family member's engagement to their same-sex partner,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00708_old_man.wav",
+        "context": "To serve my company as an employee,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00709_John_Madden.wav",
+        "context": "To serve my company as an employee,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00710_old_women.wav",
+        "context": "To serve my company as an employee,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00711_Hillary_Clinton.wav",
+        "context": "To serve my company as an employee,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00716_old_man.wav",
+        "context": "Serving as a member to a design agency,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00717_John_Madden.wav",
+        "context": "Serving as a member to a design agency,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00718_old_women.wav",
+        "context": "Serving as a member to a design agency,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00719_Hillary_Clinton.wav",
+        "context": "Serving as a member to a design agency,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00724_old_man.wav",
+        "context": "Over the weekend, I enjoyed a delightful interaction with my family,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00725_John_Madden.wav",
+        "context": "Over the weekend, I enjoyed a delightful interaction with my family,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00726_old_women.wav",
+        "context": "Over the weekend, I enjoyed a delightful interaction with my family,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00727_Hillary_Clinton.wav",
+        "context": "Over the weekend, I enjoyed a delightful interaction with my family,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00732_old_man.wav",
+        "context": "After revving the engine, I peeled out of the parking lot."
+    },
+    {
+        "audio_path": "audio/original_data/age/00733_John_Madden.wav",
+        "context": "After revving the engine, I peeled out of the parking lot."
+    },
+    {
+        "audio_path": "audio/original_data/age/00734_old_women.wav",
+        "context": "After revving the engine, I peeled out of the parking lot."
+    },
+    {
+        "audio_path": "audio/original_data/age/00735_Hillary_Clinton.wav",
+        "context": "After revving the engine, I peeled out of the parking lot."
+    },
+    {
+        "audio_path": "audio/original_data/age/00740_old_man.wav",
+        "context": "This is my inaugural attendance at this book club gathering."
+    },
+    {
+        "audio_path": "audio/original_data/age/00741_John_Madden.wav",
+        "context": "This is my inaugural attendance at this book club gathering."
+    },
+    {
+        "audio_path": "audio/original_data/age/00742_old_women.wav",
+        "context": "This is my inaugural attendance at this book club gathering."
+    },
+    {
+        "audio_path": "audio/original_data/age/00743_Hillary_Clinton.wav",
+        "context": "This is my inaugural attendance at this book club gathering."
+    },
+    {
+        "audio_path": "audio/original_data/age/00748_old_man.wav",
+        "context": "My family recently moved out of our long-time home into a newly renovated apartment in a different city across the country."
+    },
+    {
+        "audio_path": "audio/original_data/age/00749_John_Madden.wav",
+        "context": "My family recently moved out of our long-time home into a newly renovated apartment in a different city across the country."
+    },
+    {
+        "audio_path": "audio/original_data/age/00750_old_women.wav",
+        "context": "My family recently moved out of our long-time home into a newly renovated apartment in a different city across the country."
+    },
+    {
+        "audio_path": "audio/original_data/age/00751_Hillary_Clinton.wav",
+        "context": "My family recently moved out of our long-time home into a newly renovated apartment in a different city across the country."
+    },
+    {
+        "audio_path": "audio/original_data/age/00756_old_man.wav",
+        "context": "I engage in discussions with fellow individuals, discussing our leisure activities for relaxation."
+    },
+    {
+        "audio_path": "audio/original_data/age/00757_John_Madden.wav",
+        "context": "I engage in discussions with fellow individuals, discussing our leisure activities for relaxation."
+    },
+    {
+        "audio_path": "audio/original_data/age/00758_old_women.wav",
+        "context": "I engage in discussions with fellow individuals, discussing our leisure activities for relaxation."
+    },
+    {
+        "audio_path": "audio/original_data/age/00759_Hillary_Clinton.wav",
+        "context": "I engage in discussions with fellow individuals, discussing our leisure activities for relaxation."
+    },
+    {
+        "audio_path": "audio/original_data/age/00764_old_man.wav",
+        "context": "I pay a visit to my neighbor, and we engage in a conversation about our preferred beverages."
+    },
+    {
+        "audio_path": "audio/original_data/age/00765_John_Madden.wav",
+        "context": "I pay a visit to my neighbor, and we engage in a conversation about our preferred beverages."
+    },
+    {
+        "audio_path": "audio/original_data/age/00766_old_women.wav",
+        "context": "I pay a visit to my neighbor, and we engage in a conversation about our preferred beverages."
+    },
+    {
+        "audio_path": "audio/original_data/age/00767_Hillary_Clinton.wav",
+        "context": "I pay a visit to my neighbor, and we engage in a conversation about our preferred beverages."
+    },
+    {
+        "audio_path": "audio/original_data/age/00772_old_man.wav",
+        "context": "I've been working at the company for five years."
+    },
+    {
+        "audio_path": "audio/original_data/age/00773_John_Madden.wav",
+        "context": "I've been working at the company for five years."
+    },
+    {
+        "audio_path": "audio/original_data/age/00774_old_women.wav",
+        "context": "I've been working at the company for five years."
+    },
+    {
+        "audio_path": "audio/original_data/age/00775_Hillary_Clinton.wav",
+        "context": "I've been working at the company for five years."
+    },
+    {
+        "audio_path": "audio/original_data/age/00780_old_man.wav",
+        "context": "Technology is advancing with a startling pace, and some people have trouble keeping up with the most modern aspects."
+    },
+    {
+        "audio_path": "audio/original_data/age/00781_John_Madden.wav",
+        "context": "Technology is advancing with a startling pace, and some people have trouble keeping up with the most modern aspects."
+    },
+    {
+        "audio_path": "audio/original_data/age/00782_old_women.wav",
+        "context": "Technology is advancing with a startling pace, and some people have trouble keeping up with the most modern aspects."
+    },
+    {
+        "audio_path": "audio/original_data/age/00783_Hillary_Clinton.wav",
+        "context": "Technology is advancing with a startling pace, and some people have trouble keeping up with the most modern aspects."
+    },
+    {
+        "audio_path": "audio/original_data/age/00788_old_man.wav",
+        "context": "As I strolled through the bustling city streets,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00789_John_Madden.wav",
+        "context": "As I strolled through the bustling city streets,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00790_old_women.wav",
+        "context": "As I strolled through the bustling city streets,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00791_Hillary_Clinton.wav",
+        "context": "As I strolled through the bustling city streets,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00796_old_man.wav",
+        "context": "The upcoming community rummage sale is just around the bend this year."
+    },
+    {
+        "audio_path": "audio/original_data/age/00797_John_Madden.wav",
+        "context": "The upcoming community rummage sale is just around the bend this year."
+    },
+    {
+        "audio_path": "audio/original_data/age/00798_old_women.wav",
+        "context": "The upcoming community rummage sale is just around the bend this year."
+    },
+    {
+        "audio_path": "audio/original_data/age/00799_Hillary_Clinton.wav",
+        "context": "The upcoming community rummage sale is just around the bend this year."
+    },
+    {
+        "audio_path": "audio/original_data/age/00820_old_man.wav",
+        "context": "The day trip to the amusement park was a chance for the entire family to bond."
+    },
+    {
+        "audio_path": "audio/original_data/age/00821_John_Madden.wav",
+        "context": "The day trip to the amusement park was a chance for the entire family to bond."
+    },
+    {
+        "audio_path": "audio/original_data/age/00822_old_women.wav",
+        "context": "The day trip to the amusement park was a chance for the entire family to bond."
+    },
+    {
+        "audio_path": "audio/original_data/age/00823_Hillary_Clinton.wav",
+        "context": "The day trip to the amusement park was a chance for the entire family to bond."
+    },
+    {
+        "audio_path": "audio/original_data/age/00828_old_man.wav",
+        "context": "As the meeting proposed new digital tools for record-keeping,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00829_John_Madden.wav",
+        "context": "As the meeting proposed new digital tools for record-keeping,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00830_old_women.wav",
+        "context": "As the meeting proposed new digital tools for record-keeping,"
+    },
+    {
+        "audio_path": "audio/original_data/age/00831_Hillary_Clinton.wav",
+        "context": "As the meeting proposed new digital tools for record-keeping,"
+    },
+    {
+        "audio_path": "audio/complementary_data/00008_old_man.wav",
+        "context": "Despite some security issues, the platform's popularity soared."
+    },
+    {
+        "audio_path": "audio/complementary_data/00008_John_Madden.wav",
+        "context": "Despite some security issues, the platform's popularity soared."
+    },
+    {
+        "audio_path": "audio/complementary_data/00008_old_women.wav",
+        "context": "Despite some security issues, the platform's popularity soared."
+    },
+    {
+        "audio_path": "audio/complementary_data/00008_Hillary_Clinton.wav",
+        "context": "Despite some security issues, the platform's popularity soared."
+    },
+    {
+        "audio_path": "audio/complementary_data/00011_old_man.wav",
+        "context": "Have you seen how we handle our finances?"
+    },
+    {
+        "audio_path": "audio/complementary_data/00011_John_Madden.wav",
+        "context": "Have you seen how we handle our finances?"
+    },
+    {
+        "audio_path": "audio/complementary_data/00011_old_women.wav",
+        "context": "Have you seen how we handle our finances?"
+    },
+    {
+        "audio_path": "audio/complementary_data/00011_Hillary_Clinton.wav",
+        "context": "Have you seen how we handle our finances?"
+    },
+    {
+        "audio_path": "audio/complementary_data/00012_old_man.wav",
+        "context": "Have you seen how we treat our health?"
+    },
+    {
+        "audio_path": "audio/complementary_data/00012_John_Madden.wav",
+        "context": "Have you seen how we treat our health?"
+    },
+    {
+        "audio_path": "audio/complementary_data/00012_old_women.wav",
+        "context": "Have you seen how we treat our health?"
+    },
+    {
+        "audio_path": "audio/complementary_data/00012_Hillary_Clinton.wav",
+        "context": "Have you seen how we treat our health?"
+    },
+    {
+        "audio_path": "audio/complementary_data/00048_old_man.wav",
+        "context": "I'm preparing my performance for the school play."
+    },
+    {
+        "audio_path": "audio/complementary_data/00048_John_Madden.wav",
+        "context": "I'm preparing my performance for the school play."
+    },
+    {
+        "audio_path": "audio/complementary_data/00048_old_women.wav",
+        "context": "I'm preparing my performance for the school play."
+    },
+    {
+        "audio_path": "audio/complementary_data/00048_Hillary_Clinton.wav",
+        "context": "I'm preparing my performance for the school play."
+    },
+    {
+        "audio_path": "audio/complementary_data/00097_old_man.wav",
+        "context": "We plan to engage in outdoor pursuits."
+    },
+    {
+        "audio_path": "audio/complementary_data/00097_John_Madden.wav",
+        "context": "We plan to engage in outdoor pursuits."
+    },
+    {
+        "audio_path": "audio/complementary_data/00097_old_women.wav",
+        "context": "We plan to engage in outdoor pursuits."
+    },
+    {
+        "audio_path": "audio/complementary_data/00097_Hillary_Clinton.wav",
+        "context": "We plan to engage in outdoor pursuits."
+    }
+]
